@@ -1,0 +1,83 @@
+---
+title: "3. The Model Building Process"
+---
+
+## Overview
+
+This module provides participants with an overview of the model building process, from defining the problem and selecting assumptions to developing, testing, and refining a model. The session focuses on understanding the key stages involved in building credible and policy-relevant models, while emphasising the importance of transparency, stakeholder engagement, and iterative development.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   Identify the key steps in building a model from concept to application
+
+-   Understand how assumptions, data, and structure combine within a model
+
+-   Discuss the key principles of modelling for policy
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Problem definition and scope
+
+-   Conceptual model design
+
+-   Data inputs and parameterisation
+
+-   Assumptions and simplifications
+
+-   Validation and calibration
+
+-   Iterative model development
+
+-   Principles of modelling for policy
+:::
+
+## Delivery Plan
+
+This module consists of one content session and a case study or guest speaker (suggested 2-3 hours)
+
++--------------------------------------------+---------------------------------------------------------+-------------+----------------------------+
+| Topic                                      | Description                                             | Duration    | Format                     |
++--------------------------------------------+---------------------------------------------------------+-------------+----------------------------+
+| Introduction to the Model Building Process | Overview of the modelling pipeline                      | 30 min      | Presentation               |
+|                                            |                                                         |             |                            |
+|                                            | Moving from a policy question to a model                |             |                            |
++--------------------------------------------+---------------------------------------------------------+-------------+----------------------------+
+| Principles of Modelling for Policy         | Presentation of key principles                          | 30 min      | Presentation               |
+|                                            |                                                         |             |                            |
+|                                            | Importance and applications of principles               |             |                            |
++--------------------------------------------+---------------------------------------------------------+-------------+----------------------------+
+| Guest Speaker\*                            | Real world example of policy-focused modelling          | 45 min      | Group discussion (plenary) |
+|                                            |                                                         |             |                            |
+|                                            | Lessons and challenges throughout the modelling process |             |                            |
++--------------------------------------------+---------------------------------------------------------+-------------+----------------------------+
+| Reflection and Wrap-Up                     | Linking the principles and process to practice          | 10 min      | Presentation               |
+|                                            |                                                         |             |                            |
+|                                            | Roadmap of curriculum expanding on pipeline elements    |             |                            |
++--------------------------------------------+---------------------------------------------------------+-------------+----------------------------+
+
+*\*This is a good opportunity to invite a guest speaker. However, this session would also work as a case study run by the facilitation team.*
+
+### Facilitator Guidance
+
+-   Avoid overly technical detail unless appropriate for the audience
+
+-   Focus on understanding process rather than mathematical formulation
+
+-   Link principles to real-world implications and examples
+
+-   Highlight how the curriculum will expand different elements of the modelling pipeline
+
+::: {.callout-caution appearance="default"}
+## **Practical reflections from delivering the inaugural cohort**
+
+TBD...
+:::
+
+## Materials and Resources
+
+-   Facilitator slides

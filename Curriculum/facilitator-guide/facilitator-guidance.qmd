@@ -1,0 +1,331 @@
+---
+title: "Facilitator Guidance"
+---
+
+## Preparing to Deliver the Fellowship 2
+
+Successful delivery of the RMMT Fellowship depends on thoughtful preparation, contextual awareness, and a commitment to participant-centred learning. Facilitators should view preparation as more than reviewing slides and materials; it involves understanding the participants, their programme contexts, and the policy challenges they are seeking to address.
+
+Before delivery, facilitators should familiarise themselves with the overall Fellowship learning journey and the relationship between individual modules, capstone projects, and programme objectives. Particular attention should be paid to the backgrounds and responsibilities of participants, as the Fellowship cohort typically includes policymakers, programme managers, surveillance officers, monitoring and evaluation specialists, and technical staff with varying levels of modelling experience.
+
+::: {.callout-note appearance="default"}
+## Facilitation Principle
+
+A well-prepared facilitator focuses not only on what will be taught, but also on how participants will engage with, discuss, and apply the material within their own programme contexts.
+:::
+
+### Preparation Checklist
+
++---------------+--------------------------------------------------------------+
+| Area          | Key Considerations                                           |
++---------------+--------------------------------------------------------------+
+| Content       | Review learning objectives, activities, and expected outputs |
++---------------+--------------------------------------------------------------+
+| Participants  | Understand backgrounds, roles, and country contexts          |
++---------------+--------------------------------------------------------------+
+| Materials     | Prepare slides, worksheets, case studies, and supporting     |
+|               | resources                                                    |
++---------------+--------------------------------------------------------------+
+| Technology    | Test virtual platforms, breakout rooms, polling tools, and   |
+|               | presentations                                                |
++---------------+--------------------------------------------------------------+
+| Coordination  | Align expectations with guest speakers and co-facilitators   |
++---------------+--------------------------------------------------------------+
+| Application   | Identify links between module content and capstone projects  |
++---------------+--------------------------------------------------------------+
+
+### Creating an Effective Learning Environment
+
+The Fellowship is most successful when participants feel comfortable contributing their experiences, questioning assumptions, and engaging with diverse perspectives. Facilitators should establish a learning environment that is respectful, participatory, and grounded in practical application. This is particularly important in a cohort that brings together participants with different professional roles, levels of technical experience, and country contexts.
+
+An effective learning environment does not require all participants to have the same level of modelling knowledge. Instead, it should support shared learning across different forms of expertise. Programme managers, policymakers, surveillance officers, data analysts, and technical specialists each bring valuable perspectives. Facilitators should actively reinforce the idea that modelling for decision-making depends on combining technical insight with operational knowledge and policy judgement.
+
+::: {.callout-note appearance="default"}
+## Collaborative Learning Space
+
+The Fellowship should feel like a collaborative learning space rather than a classroom. Participants should be encouraged to test ideas, raise concerns, and connect modelling concepts to real programme decisions.
+:::
+
+Facilitators can support an effective learning environment by setting expectations early. At the start of the Fellowship, it is helpful to agree on shared norms for participation, discussion, and collaboration. These norms should emphasise respectful dialogue, curiosity, constructive challenge, and openness to different perspectives. Participants should also be reassured that uncertainty, disagreement, and incomplete information are normal features of modelling and public health decision-making.
+
++----------------------+------------------------------------------------------------+
+| Dimension            | Facilitator Role                                           |
++----------------------+------------------------------------------------------------+
+| Psychological safety | Create space for participants to ask questions without     |
+|                      | fear of judgement                                          |
++----------------------+------------------------------------------------------------+
+| Participation        | Encourage contributions from both technical and            |
+|                      | non-technical participants                                 |
++----------------------+------------------------------------------------------------+
+| Relevance            | Link discussions to real malaria programme and policy      |
+|                      | challenges                                                 |
++----------------------+------------------------------------------------------------+
+| Respect              | Acknowledge different forms of expertise and country       |
+|                      | experience                                                 |
++----------------------+------------------------------------------------------------+
+| Reflection           | Build in time for participants to connect learning to      |
+|                      | their own roles                                            |
++----------------------+------------------------------------------------------------+
+| Collaboration        | Support peer learning within and across country teams      |
++----------------------+------------------------------------------------------------+
+
+Facilitators should pay close attention to the balance of voices in the room. Participants with technical backgrounds may be more comfortable discussing modelling concepts, while those in policy or programme roles may initially be less confident engaging with technical material. Conversely, technical participants may need support in thinking beyond model outputs towards operational feasibility, communication, and decision-making processes. The facilitator’s role is to help bridge these perspectives.
+
+A useful approach is to invite participants to speak from their own experience before introducing more technical framing. For example, before discussing model assumptions, facilitators might ask participants how uncertainty appears in their programme planning work. Before introducing scenario analysis, facilitators might ask what kinds of strategic choices their programmes currently face. This helps participants recognise that many modelling concepts connect directly to decisions they already make.
+
+Facilitators should also make deliberate use of peer learning. Participants often learn as much from one another as from formal presentations. Country examples, practical challenges, and programme experiences should be treated as core learning resources. Where possible, facilitators should invite participants to compare experiences across settings and reflect on how differences in transmission, health systems, data availability, funding, or governance affect the use of modelling.
+
+::: {.callout-tip appearance="default"}
+## Facilitator Tip
+
+When a discussion becomes overly technical, ask: “What does this mean for a programme decision?” When a discussion becomes overly operational, ask: “What evidence or analysis would help clarify this decision?”
+:::
+
+The learning environment should also support constructive challenge. Participants should feel able to question assumptions, critique model outputs, and identify limitations without dismissing the value of modelling. Facilitators can model this balance by using language such as “What would we need to know to interpret this result?” or “What assumptions would decision-makers need to understand?” rather than framing critique as right or wrong.
+
+Finally, facilitators should create moments for synthesis. After exercises, group work, or discussion, time should be set aside to identify key insights, unresolved questions, and implications for participants’ own work. This helps ensure that learning does not remain abstract but is translated into practical understanding.
+
++--------------------------+------------------------------------------------------------+
+| Practice                 | Example Facilitation Prompt                                |
++--------------------------+------------------------------------------------------------+
+| Connect to experience    | Where have you seen this issue arise in your programme?    |
++--------------------------+------------------------------------------------------------+
+| Encourage reflection     | What assumption is most important for decision-makers to   |
+|                          | understand?                                                |
++--------------------------+------------------------------------------------------------+
+| Bridge perspectives      | How might a modeller and a programme manager view this     |
+|                          | differently?                                               |
++--------------------------+------------------------------------------------------------+
+| Support application      | How could this be used in strategic planning or resource   |
+|                          | allocation?                                                |
++--------------------------+------------------------------------------------------------+
+| Promote synthesis        | What is the main takeaway for policy or programme          |
+|                          | decision-making?                                           |
++--------------------------+------------------------------------------------------------+
+
+Creating an effective learning environment is an ongoing process throughout the Fellowship. Facilitators should regularly observe participation patterns, adapt activities where needed, and create opportunities for participants to engage in different ways, including plenary discussion, small group work, written reflection, and country team collaboration.
+
+
+
+## Suggested Agendas and Timelines
+
+The agendas provided below are intended as examples rather than rigid templates. Facilitators should adapt timing and activities based on participant needs, module content, and delivery format.
+
+### Example Virtual Session (90–120 Minutes)
+
++-------------------------------------------+------------+
+| Component                                 | Duration   |
++-------------------------------------------+------------+
+| Welcome and recap                         | 10 min     |
++-------------------------------------------+------------+
+| Core content presentation                 | 30–40 min  |
++-------------------------------------------+------------+
+| Interactive exercise or breakout          | 30–40 min  |
+| discussion                                |            |
++-------------------------------------------+------------+
+| Group feedback and discussion             | 20–30 min  |
++-------------------------------------------+------------+
+| Reflection and wrap-up                    | 10 min     |
++-------------------------------------------+------------+
+
+### Example Half-Day Session
+
++-------------------------------------------+------------+
+| Component                                 | Duration   |
++-------------------------------------------+------------+
+| Introduction and objectives               | 15 min     |
++-------------------------------------------+------------+
+| Content delivery                          | 45 min     |
++-------------------------------------------+------------+
+| Interactive exercise                      | 60 min     |
++-------------------------------------------+------------+
+| Break                                     | 15 min     |
++-------------------------------------------+------------+
+| Group discussion and report back          | 45 min     |
++-------------------------------------------+------------+
+| Reflection and action planning            | 30 min     |
++-------------------------------------------+------------+
+
+### Example Full-Day Session
+
++-------------------------------------------+------------+
+| Component                                 | Duration   |
++-------------------------------------------+------------+
+| Welcome and recap                         | 15 min     |
++-------------------------------------------+------------+
+| Session 1                                 | 60 min     |
++-------------------------------------------+------------+
+| Exercise 1                                | 45 min     |
++-------------------------------------------+------------+
+| Discussion and report back                | 30 min     |
++-------------------------------------------+------------+
+| Break                                     | 15 min     |
++-------------------------------------------+------------+
+| Session 2                                 | 60 min     |
++-------------------------------------------+------------+
+| Exercise 2                                | 60 min     |
++-------------------------------------------+------------+
+| Lunch                                     | 60 min     |
++-------------------------------------------+------------+
+| Session 3                                 | 60 min     |
++-------------------------------------------+------------+
+| Capstone project work                     | 90 min     |
++-------------------------------------------+------------+
+| Reflection and close                      | 30 min     |
++-------------------------------------------+------------+
+
+### Time Management Considerations
+
+Facilitators should prioritise discussion, reflection, and application over content coverage. Participants often gain more value from exploring one concept deeply than from rapidly progressing through multiple topics. Time should be protected for participant discussion, synthesis of key messages, and connections to programme realities.
+
+
+
+## Tips for Interactive and Adult Learning Approaches
+
+The Fellowship is grounded in adult learning principles. Participants bring significant professional experience and practical knowledge, and the role of the facilitator is to create opportunities for participants to connect this experience with new concepts and approaches.
+
+### Adult Learning in Practice
+
+Rather than positioning participants as recipients of knowledge, facilitators should encourage active engagement with real-world challenges. Learning is most effective when participants can see a clear connection between Fellowship content and decisions they face in their own programmes.
+
+### Recommended Approaches
+
++-------------------------+------------------------------------------------------------+
+| Approach                | Purpose                                                    |
++-------------------------+------------------------------------------------------------+
+| Case-based learning     | Connect concepts to real programme challenges              |
++-------------------------+------------------------------------------------------------+
+| Small-group discussion  | Encourage participation and peer exchange                  |
++-------------------------+------------------------------------------------------------+
+| Reflection activities   | Promote deeper learning and application                    |
++-------------------------+------------------------------------------------------------+
+| Scenario exercises      | Explore decision-making under uncertainty                  |
++-------------------------+------------------------------------------------------------+
+| Systems mapping         | Visualise complexity and interconnections                  |
++-------------------------+------------------------------------------------------------+
+| Peer presentations      | Share experiences and lessons across contexts              |
++-------------------------+------------------------------------------------------------+
+
+### Reflection Questions
+
+Reflection activities can be used throughout the Fellowship to encourage deeper thinking and application.
+
+::: {.callout-tip appearance="default"}
+## Suggested Reflection Questions
+
+- What surprised you?
+- What challenged your assumptions?
+- How could this approach be applied in your context?
+- What barriers might affect implementation?
+- What additional information would support decision-making?
+:::
+
+---
+
+## Managing Group Work and Discussions
+
+Group work is central to the Fellowship learning experience. Facilitators should focus on creating conditions that support meaningful participation, balanced discussion, and practical problem-solving.
+
+### Supporting Effective Participation
+
+Clear instructions, realistic timeframes, and well-defined outputs are essential. Participants should understand what they are being asked to produce and why the activity is important.
+
+### Encouraging Balanced Contributions
+
+In every cohort, some participants will be more comfortable speaking than others. Facilitators should create opportunities for all voices to be heard and should actively encourage contributions from quieter participants.
+
+### Facilitation Approaches
+
++--------------------------------------+------------------------------------------+
+| Effective Practice                   | Common Pitfall                           |
++--------------------------------------+------------------------------------------+
+| Invite diverse perspectives          | Allow one or two voices to dominate      |
++--------------------------------------+------------------------------------------+
+| Use structured discussion rounds     | Assume silence indicates agreement       |
++--------------------------------------+------------------------------------------+
+| Break large groups into smaller      | Allow discussions to drift without       |
+| teams                                | purpose                                  |
++--------------------------------------+------------------------------------------+
+| Summarise key insights regularly     | Focus on discussion without synthesis    |
++--------------------------------------+------------------------------------------+
+| Link activities to programme         | Treat exercises as purely academic       |
+| realities                            |                                          |
++--------------------------------------+------------------------------------------+
+
+### Working with Country Teams
+
+Country teams play a critical role in the Fellowship and capstone projects. Facilitators should encourage teams to integrate technical, operational, and policy perspectives when defining problems and developing modelling questions. The goal is not only to produce a project output but also to strengthen collaboration within programme teams.
+
+::: {.callout-important appearance="default"}
+## Key Takeaway
+
+Strong group discussions are characterised by participation, curiosity, and reflection. The facilitator's role is to create the conditions for these qualities to emerge.
+:::
+
+
+
+## Facilitating Technical–Policy Dialogue
+
+A distinguishing feature of the RMMT Fellowship is its focus on bridging the gap between technical modelling and policy decision-making. Facilitators play a key role in helping participants navigate this interface.
+
+### Understanding Different Perspectives
+
+Technical experts and decision-makers often approach problems differently. Technical participants may focus on assumptions, methods, and analytical rigour, while policymakers and programme managers are more likely to focus on feasibility, implementation, and strategic priorities.
+
+Effective facilitation helps participants recognise that these perspectives are complementary rather than competing.
+
+### Translating Between Technical and Policy Language
+
+Facilitators should consistently encourage participants to move beyond technical outputs and focus on their implications.
+
+Questions that support this translation include:
+
++---------------------------------+------------------------------------------------------------+
+| Technical Question              | Policy-Oriented Question                                   |
++---------------------------------+------------------------------------------------------------+
+| What does the model estimate?   | What decision could this inform?                           |
++---------------------------------+------------------------------------------------------------+
+| What assumptions were made?     | What do decision-makers need to understand?                |
++---------------------------------+------------------------------------------------------------+
+| How robust are the findings?    | How much confidence should we place in the recommendation? |
++---------------------------------+------------------------------------------------------------+
+| What uncertainties remain?      | What risks should be considered?                           |
++---------------------------------+------------------------------------------------------------+
+
+### Managing Uncertainty
+
+Uncertainty is a normal and expected feature of modelling and decision-making. Facilitators should help participants understand that uncertainty does not diminish the value of evidence. Instead, it provides important information about confidence, risk, and possible future outcomes.
+
+::: {.callout-note appearance="default"}
+## Key Takeaway
+
+The purpose of modelling is not to predict the future with certainty, but to support better-informed decisions in situations where uncertainty exists.
+:::
+
+### Linking Dialogue to Capstone Projects
+
+Capstone projects provide an opportunity for participants to practise technical–policy engagement in a realistic setting. Facilitators should encourage teams to think carefully about how questions are framed, how findings would be communicated, and how outputs could ultimately support decision-making processes.
+
+---
+
+## Facilitator Reflection and Continuous Improvement
+
+Effective facilitation requires ongoing reflection and adaptation. Facilitators should regularly review participant engagement, learning outcomes, and feedback to identify opportunities for improvement.
+
+### Reflection Questions for Facilitators
+
+::: {.callout-tip appearance="default"}
+## Reflection Questions for Facilitators
+
+After each session, consider:
+
+- What generated the greatest engagement?
+- Which concepts proved most challenging?
+- Were learning objectives achieved?
+- How effectively were discussions linked to programme realities?
+- What should be adapted for future delivery?
+:::
+
+### Using Feedback for Improvement
+
+Participant feedback should be viewed as a valuable source of information rather than simply a reporting requirement. Reviewing feedback regularly can help facilitators refine activities, strengthen discussions, improve examples, and ensure that future cohorts continue to find the Fellowship relevant, practical, and impactful.

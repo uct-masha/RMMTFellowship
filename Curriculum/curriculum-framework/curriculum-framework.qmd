@@ -1,0 +1,86 @@
+---
+title: "Curriculum Overview"
+---
+
+## Overview of Core Themes
+
+The RMMT Fellowship curriculum is structured around a set of interconnected themes that reflect the full lifecycle of modelling for policy and programme decision-making. These themes span from foundational concepts—such as understanding what modelling is, systems thinking, and the model building process—through to applied components including model design, scenario analysis, and interpretation of outputs. Cross-cutting areas such as uncertainty, health economics, subnational tailoring, and stakeholder engagement are integrated throughout to ensure relevance to real-world contexts.
+
+The content is designed to provide participants with both the conceptual understanding and practical tools required to engage critically with modelling and to use model-based insights effectively within programme and policy contexts. The curriculum also places strong emphasis on critical engagement with models, including questioning assumptions, interpreting limitations, and effectively communicating findings to diverse audiences. Together, these themes provide a comprehensive foundation for understanding, applying, and using modelling to inform malaria programmes.
+
+## How the Modules Fit Together
+
+The modules are designed to build progressively, supporting a structured learning journey from foundational knowledge to applied practice. Early modules introduce key concepts and frameworks, establishing a shared understanding of modelling and its role within complex health systems. This is followed by modules focused on the modelling process itself, including question formulation, model design, and stakeholder roles, which equip participants with the tools to engage in or commission modelling work. Subsequent modules emphasise interpretation, critique, and application, enabling fellows to analyse outputs, assess uncertainty, and translate findings into actionable insights. The curriculum includes applied exercises throughout and culminates in a capstone project, where participants integrate learning across modules to address real-world programme questions. This progression ensures that learning is cumulative, practical, and directly relevant to participants’ roles.
+
+## Competency Areas and Expected Outcomes
+
+The curriculum is aligned with three core competency areas: 1) understanding and interpreting modelling outputs; 2) applying modelling to decision-making; and 3) communication, collaboration, and influence. Across these domains, participants are expected to develop both technical literacy and practical skills.
+
+::::: grid
+::: g-col-6
+![](/images/fellowship-aims.png){fig-alt="RMMT Fellowship aims"}
+:::
+
+::: g-col-6
+By the end of the Fellowship, fellows should be able to critically interpret model outputs, including assumptions and uncertainty; define and refine policy-relevant modelling questions; and apply modelling insights to inform strategic planning and resource allocation. In addition, participants are expected to strengthen their ability to communicate complex technical information to non-technical audiences, facilitate dialogue between modellers and decision-makers, and advocate for the use of evidence in policy and programme contexts.
+:::
+:::::
+
+## Alignment with Policy and Programme Needs
+
+The curriculum is intentionally designed to align with the needs of policymakers and programme implementers, rather than focusing solely on technical modelling skills. Content is grounded in real-world malaria programme challenges, including intervention prioritisation, resource allocation, and subnational tailoring. Emphasis is placed on ensuring that modelling is used to address relevant and actionable questions, and that outputs are translated into formats that support decision-making. The curriculum also reflects the realities of constrained resources, data limitations, and competing priorities within health systems. By integrating technical knowledge with policy application, the Fellowship aims to bridge the gap between modelling and practice, strengthening the capacity of participants to use evidence effectively within their institutional contexts.
+
+## Approach to Learning
+
+The RMMT Fellowship is designed as a practical, participant-centred learning programme. Its aim is not only to introduce modelling concepts, but to support fellows to apply modelling, evidence synthesis, and technical–policy dialogue to real malaria programme decisions.
+
+The curriculum recognises that fellows bring different types of expertise. Some participants may have experience in malaria programme implementation, surveillance, monitoring and evaluation, or policy development, while others may have more technical or analytical backgrounds. The learning approach therefore values both technical knowledge and programme experience. Modelling is presented as a collaborative process that depends on clear questions, contextual understanding, appropriate data, transparent assumptions, and effective communication.
+
+::: {.callout-note appearance="default"}
+## Learning Principle
+
+The Fellowship treats participants as active contributors to the learning process. Country experience, programme knowledge, and policy insight are used as core learning resources throughout the curriculum.
+:::
+
+Learning activities are designed to help fellows move between concepts, application, and reflection. Modules combine short technical inputs with facilitated discussion, practical exercises, country team work, and opportunities to connect learning to capstone projects. This structure allows fellows to test ideas, question assumptions, and consider how modelling can support decision-making in their own contexts.
+
+|  |  |
+|----|----|
+| Learning Feature | How It Supports Fellows |
+| Applied examples | Connect modelling concepts to malaria programme decisions |
+| Facilitated discussion | Encourage exchange across technical, policy, and programme perspectives |
+| Country team work | Support collaboration around real programme priorities |
+| Reflection activities | Help fellows connect learning to their own roles and responsibilities |
+| Capstone projects | Provide a structured opportunity to apply learning to a practical modelling or policy question |
+| Peer learning | Enable fellows to learn from experiences across countries and professional backgrounds |
+
+A key feature of the Fellowship is the emphasis on learning across disciplines. Fellows are encouraged to consider both technical and decision-making perspectives: what a model can estimate, what assumptions shape the results, how uncertainty should be interpreted, and what decision the evidence is intended to inform. This helps ensure that modelling is understood not as a purely technical exercise, but as part of a broader process of strategic planning, implementation, and policy dialogue.
+
+::: {.callout-tip appearance="default"}
+## Connecting Technical and Policy Perspectives
+
+Throughout the curriculum, fellows are encouraged to ask: What decision could this analysis inform? What assumptions should decision-makers understand? What uncertainties remain? How can findings be communicated clearly and responsibly?
+:::
+
+The learning approach also recognises that uncertainty is central to both modelling and public health decision-making. Rather than treating uncertainty as a weakness, the curriculum uses it as an opportunity to discuss confidence, risk, data limitations, and alternative scenarios. Fellows are supported to interpret uncertainty in ways that are meaningful for programme planning and policy decisions.
+
+The Fellowship uses an iterative learning model. Ideas introduced in early modules are revisited and strengthened through later sessions, practical exercises, and capstone project work. Fellows gradually build from understanding modelling concepts to formulating policy-relevant questions, interpreting outputs, communicating findings, and considering how modelling evidence can be embedded in programme decision-making.
+
+|  |  |
+|----|----|
+| Learning Stage | Focus |
+| Explore | Introduce concepts, questions, and programme challenges |
+| Apply | Use exercises and case studies to practise key skills |
+| Reflect | Consider implications for participants' own contexts |
+| Integrate | Link module learning to capstone projects and programme priorities |
+| Communicate | Translate modelling insights into clear messages for decision-makers |
+
+By the end of the Fellowship, participants should be better equipped to engage with modelling evidence, contribute to the formulation of modelling questions, interpret outputs critically, and communicate findings in ways that support malaria programme strategy and policy decision-making.
+
+## Curriculum Overview
+
+The curriculum was designed to provide a comprehensive and practical foundation in the use of modelling for malaria policy and decision-making. It spans the full modelling process—from framing policy-relevant questions and understanding systems, through model design, development, and critique, to interpreting outputs and communicating findings—while also addressing cross-cutting themes such as uncertainty, health economics, and stakeholder engagement. The selection of topics reflects the needs of the fellowship audience, balancing technical understanding with practical application to ensure participants can both engage critically with models and use their results in real-world contexts. The modules are structured to build on one another, reinforcing key concepts while allowing space for reflection and application. A mix of teaching approaches was used throughout, including lectures to introduce core concepts, facilitated discussions to draw on participant experience, and interactive and group-based exercises to apply learning to relevant scenarios, fostering both technical confidence and collaborative application skills.
+
+![](/images/curriculum1.png)
+
+![](/images/curriculum2.png)

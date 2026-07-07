@@ -1,0 +1,145 @@
+---
+title: "12. Uncertainty and Sensitivity Analysis"
+---
+
+## Overview
+
+This module explores the role of uncertainty and sensitivity analysis in modelling and decision-making. Participants examine how uncertainty arises from assumptions, data limitations, and model structure, and how it can influence interpretation and policy recommendations. The module emphasises the importance of transparently communicating uncertainty to support informed and responsible decision-making.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   What types of uncertainty exist in modelling?
+
+-   How is sensitivity analysis used to assess the robustness of results?
+
+-   How can uncertainty be communicated effectively to non-technical audiences?
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Parameter uncertainty
+
+-   Structural uncertainty
+
+-   Data limitations and variability
+
+-   Sensitivity analysis
+
+-   Communicating confidence and uncertainty
+:::
+
+
+## Delivery Plan
+
+This module consists of...
+
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Topic                     | Description                                                    | Duration   | Format                         |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Why modelling matters in malaria programmes                    |            |                                |
+|                           |                                                                |            |                                |
+|                           | Examples of modelling informing policy decisions               |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Comparing model types and applications                         |            |                                |
+|                           |                                                                |            |                                |
+|                           | Strengths and limitations of different approaches              |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
+|                           |                                                                |            |                                |
+|                           | Small groups discuss whether modelling would be useful and why |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
+|                           |                                                                |            |                                |
+|                           | Challenges participants have encountered in using evidence     |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Common misconceptions about modelling                          |            |                                |
+|                           |                                                                |            |                                |
+|                           | Where to next                                                  |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+
+Part 1: Introduction to Uncertainty (30 min)
+
+-   Why uncertainty exists in all models
+
+-   Different sources and types of uncertainty
+
+Part 2: Sensitivity Analysis (45 min)
+
+-   Understanding how assumptions affect outputs
+
+-   Examples of sensitivity testing in malaria models
+
+Part 3: Practical Exercise (45–60 min)
+
+-   Participants review outputs under different assumptions
+
+-   Explore how changing parameters influences conclusions
+
+Part 4: Communicating Uncertainty (30 min)
+
+-   Avoiding overconfidence in communication
+
+-   Presenting uncertainty clearly and constructively
+
+Part 5: Reflection and Wrap-Up (15 min)
+
+-   Key lessons for interpreting and communicating uncertainty
+
+### Practical Exercise
+
+Exercise Title: Exploring Uncertainty in Model Results
+
+**Instructions:\
+** Participants:
+
+1.  Review model outputs under varying assumptions
+
+2.  Identify which assumptions most influence outcomes
+
+3.  Discuss implications for policy recommendations
+
+4.  Develop key messages for communicating uncertainty
+
+Groups compare findings and communication approaches.
+
+### Facilitator Guidance
+
+-   Reinforce that uncertainty does not make modelling “wrong” or unusable
+
+-   Encourage discussion on balancing confidence and caution
+
+-   Use practical examples to demonstrate sensitivity analysis
+
+-   Focus on implications for decision-making and communication
+
+::: {.callout-caution appearance="default"}
+## What we learned along the way
+
+Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
+
+Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
+:::
+
+
+
+## Materials and Resources
+
+-   Example sensitivity analyses
+
+-   Uncertainty communication guide
+
+-   Scenario comparison worksheets
+
+-   Facilitator presentation slides
+
+

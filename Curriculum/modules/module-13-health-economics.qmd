@@ -1,0 +1,144 @@
+---
+title: "13. Health Economics and Financing"
+---
+
+## Overview
+
+This module introduces participants to the role of health economics and financing in supporting malaria policy and programme decisions. Participants explore how modelling and economic evidence can inform prioritisation, resource allocation, and investment decisions in resource-constrained settings.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   How can economic evidence support policy and programme decisions?
+
+-   What information is needed to assess affordability, sustainability, and value for money?
+
+-   How can modelling inform funding allocations and investment strategies?
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Cost-effectiveness and value for money
+
+-   Resource allocation and prioritisation
+
+-   Affordability and sustainability
+
+-   Investment cases and advocacy
+
+-   Economic interpretation of modelling outputs
+:::
+
+
+
+## Delivery Plan
+
+This module consists of...
+
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Topic                     | Description                                                    | Duration   | Format                         |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Why modelling matters in malaria programmes                    |            |                                |
+|                           |                                                                |            |                                |
+|                           | Examples of modelling informing policy decisions               |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Comparing model types and applications                         |            |                                |
+|                           |                                                                |            |                                |
+|                           | Strengths and limitations of different approaches              |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
+|                           |                                                                |            |                                |
+|                           | Small groups discuss whether modelling would be useful and why |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
+|                           |                                                                |            |                                |
+|                           | Challenges participants have encountered in using evidence     |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Common misconceptions about modelling                          |            |                                |
+|                           |                                                                |            |                                |
+|                           | Where to next                                                  |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+
+Part 1: Introduction to Health Economics (30 min)
+
+-   Why economics matters in programme decision-making
+
+-   Linking modelling to resource allocation
+
+Part 2: Economic Evidence and Policy (45 min)
+
+-   Cost-effectiveness and prioritisation
+
+-   Funding constraints and trade-offs
+
+Part 3: Practical Exercise (45–60 min)
+
+-   Participants compare intervention options under different budget scenarios
+
+-   Discuss implications for programme priorities
+
+Part 4: Group Discussion (30 min)
+
+-   Using economic evidence for advocacy and investment
+
+-   Balancing impact, feasibility, and affordability
+
+Part 5: Reflection and Wrap-Up (15 min)
+
+-   Key lessons for financing and prioritisation decisions
+
+### Practical Exercise
+
+Exercise Title: Prioritising Under Budget Constraints
+
+**Instructions:\
+** Participants:
+
+1.  Review intervention options and budget scenarios
+
+2.  Compare trade-offs between impact, cost, and feasibility
+
+3.  Recommend a prioritised strategy
+
+4.  Prepare a short justification for policymakers or funders
+
+Groups present and discuss their recommendations.
+
+### Facilitator Guidance
+
+-   Focus on practical interpretation rather than technical economic methods
+
+-   Reinforce that economic evidence supports—not replaces—policy judgement
+
+-   Encourage discussion on operational realities and funding constraints
+
+-   Use relatable programme examples and investment cases
+
+::: {.callout-caution appearance="default"}
+## What we learned along the way
+
+Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
+
+Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
+:::
+
+
+## Materials and Resources
+
+-   Budget and intervention scenarios
+
+-   Cost-effectiveness examples
+
+-   Prioritisation templates
+
+-   Facilitator slides
+

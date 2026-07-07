@@ -1,0 +1,100 @@
+---
+title: "8. Critiquing Models"
+---
+
+## Overview
+
+This module focuses on developing participants’ ability to critically assess models and modelling outputs. Participants explore how assumptions, data quality, model structure, and communication of results influence credibility and usefulness. The module emphasises the importance of informed critique to support responsible interpretation and application of modelling in policy and programme settings.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   Assess the strengths and limitations of a model
+
+-   Review assumptions and outputs
+
+-   Identify potential biases or misinterpretations
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Model assumptions and limitations
+
+-   Data quality and uncertainty
+
+-   Transparency and reproducibility
+
+-   Bias and interpretation
+
+-   Assessing credibility and policy relevance
+:::
+
+## Delivery Plan
+
+This module consists of...
+
++-------------------------------------------+------------------------------------------------------------------+------------+--------------------------------+
+| Topic                                     | Description                                                      | Duration   | Format                         |
++-------------------------------------------+------------------------------------------------------------------+------------+--------------------------------+
+| Introduction to Model Critique            | Why critical engagement with models matters                      | 30 min     | Presentation                   |
+|                                           |                                                                  |            |                                |
+|                                           | Common pitfalls in interpreting modelling outputs                |            |                                |
++-------------------------------------------+------------------------------------------------------------------+------------+--------------------------------+
+| Understanding Assumptions and Limitations | Reviewing assumptions, inputs, and methods                       | 45 min     | Presentation                   |
+|                                           |                                                                  |            |                                |
+|                                           | Identifying sources of uncertainty and bias                      |            |                                |
++-------------------------------------------+------------------------------------------------------------------+------------+--------------------------------+
+| Interactive Exercise                      | Participants review a simplified modelling output or case study  | 60 min     | Small group break out exercise |
+|                                           |                                                                  |            |                                |
+|                                           | Identify strengths, limitations, and questions for clarification |            |                                |
++-------------------------------------------+------------------------------------------------------------------+------------+--------------------------------+
+| Group Discussion                          | How critique can improve model use and communication             | 30 min     | Group discussion (plenary)     |
+|                                           |                                                                  |            |                                |
+|                                           | Balancing trust and healthy scepticism                           |            |                                |
++-------------------------------------------+------------------------------------------------------------------+------------+--------------------------------+
+| Reflection and Wrap-Up                    | Key lessons for engaging critically with modelling evidence      | 15 min     | Presentation                   |
+|                                           |                                                                  |            |                                |
+|                                           | Where to next                                                    |            |                                |
++-------------------------------------------+------------------------------------------------------------------+------------+--------------------------------+
+
+### Practical Exercise
+
+Exercise Title: Reviewing a Model Output
+
+**Instructions:\
+**Participants work in groups to review a modelling summary and discuss:
+
+1.  What assumptions underpin the model?
+
+2.  What information is missing or unclear?
+
+3.  What limitations should decision-makers be aware of?
+
+4.  What follow-up questions would they ask the modelling team?
+
+Groups present findings and compare perspectives.
+
+### Facilitator Guidance
+
+-   Encourage participants to ask constructive rather than dismissive questions
+
+-   Reinforce that all models involve assumptions and trade-offs
+
+-   Use real examples where poor interpretation affected decision-making
+
+-   Emphasise transparency and communication as part of credibility
+
+
+
+## Materials and Resources
+
+-   Example modelling summaries or policy briefs
+
+-   Critique checklist template
+
+-   Facilitator slides
+
+-   Group discussion worksheets

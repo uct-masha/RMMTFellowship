@@ -1,0 +1,124 @@
+---
+title: "MEL Framework"
+---
+
+## Approach to Monitoring and Evaluation
+
+The Monitoring and Evaluation (M&E) approach for the RMMT Fellowship is designed to assess how fellows’ competencies, confidence, and perceptions change over the course of the programme. Rather than treating evaluation as a one-off reporting activity, the Fellowship uses M&E as a learning mechanism: to understand participant progress, identify areas where additional support is needed, and inform improvements to future delivery.
+
+The M&E framework is structured around three assessment points: baseline, midline, and endline. Each phase serves a distinct purpose. The baseline assessment captures fellows’ starting points, expectations, and initial self-assessed competencies. The midline assessment provides an opportunity to identify emerging strengths, challenges, and areas requiring adaptation while the Fellowship is still underway. The endline assessment captures perceived learning gains, confidence, satisfaction, and reflections on how fellows expect to apply their learning.
+
+
++----------------------+------------------------------------------------------------+
+| M&E Phase            | Primary Purpose                                            |
++----------------------+------------------------------------------------------------+
+| Baseline             | Establish fellows' starting confidence, expectations, and  |
+|                      | self-assessed competencies                                 |
++----------------------+------------------------------------------------------------+
+| Midline              | Identify emerging learning needs, implementation issues,    |
+|                      | and opportunities to adapt delivery                         |
++----------------------+------------------------------------------------------------+
+| Endline              | Assess perceived learning gains, satisfaction, and intended |
+|                      | application of Fellowship learning                          |
++----------------------+------------------------------------------------------------+
+
+A mixed-methods approach is used, combining quantitative competency assessment with qualitative feedback. Quantitative data are collected through a 14-item Likert scale covering key competency areas. Qualitative data are collected through open-ended questions and interactive feedback activities, allowing fellows to explain their experiences, identify barriers, and suggest improvements. Together, these methods identify how the Fellowship can better support fellows to apply modelling evidence in real programme and policy contexts.
+
+::: {.callout-note appearance="default"}
+## Purpose of M&E
+
+The purpose of M&E is not only to measure whether learning occurred, but also to understand how the Fellowship can better support fellows to apply modelling evidence in real programme and policy contexts.
+:::
+
+## Competency Assessment Tool
+
+The suggested quantitative competency assessment tool is comprised of 14 closed questions using a five-point Likert scale. The scale is scored from 1 to 5, where 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, and 5 = Strongly Agree. These questions remain consistent across the baseline, midline, and endline surveys to support comparison over time.
+
+The questions are grouped into three competency areas: understanding and interpreting modelling outputs; applying modelling to decision-making; and collaboration, communication, and influence. These areas reflect the Fellowship’s emphasis on both technical understanding and the practical use of modelling evidence in policy and programme settings.
+
+The open-ended questions vary across surveys. At baseline, they focus on expectations, prior experience, and anticipated learning needs. At midline, they focus on what is working well, where fellows require further support, and how delivery could be improved. At endline, they focus on learning gains, application, and recommendations for future cohorts.
+
+::: {.callout-tip appearance="default"}
+## Interpreting Competency Scores
+
+The competency assessment is based on self-reported confidence and perceived ability. Scores should therefore be interpreted as indicators of perceived progress rather than as direct tests of technical proficiency.
+:::
+
+## Survey Instruments: Baseline, Midline, and Endline
+
+The three survey instruments are designed to capture different stages of the Fellowship learning journey. While the core competency questions remain consistent across the surveys, the open-ended questions should be tailored to the purpose of each evaluation point.
+
+|  |  |  |
+|------------------|------------------|-----------------------------------|
+| Survey | Timing | Key Focus |
+| Baseline | Start of Fellowship | Expectations, prior experience, initial confidence, and learning needs |
+| Midline | Midpoint of Fellowship | Progress, challenges, support needs, and opportunities to adapt delivery |
+| Endline | End of Fellowship | Learning gains, satisfaction, application, and recommendations for improvement |
+
+The **baseline survey** should be administered before or at the start of the Fellowship. It establishes fellows’ initial confidence, prior exposure to modelling, expectations for the programme, and perceived learning needs. This information can help facilitators understand the cohort and adapt early sessions to participants’ backgrounds.
+
+The **midline survey** should be administered approximately halfway through the Fellowship. Its primary purpose is formative. It should help facilitators understand what is working well, which topics require additional explanation, and whether fellows feel supported in applying learning to their capstone projects. Midline findings should be reviewed quickly so that practical adjustments can be made during the Fellowship.
+
+The **endline survey** should be administered at the end of the Fellowship. It assesses perceived changes in competency, satisfaction with programme delivery, and fellows’ intentions to use modelling evidence in their work. It should also capture reflections on the Fellowship structure, module sequencing, capstone process, and suggestions for future cohorts.
+
+::: {.callout-note appearance="default"}
+## Formative Use of Feedback
+
+The midline survey is especially important because it allows the delivery team to respond while the Fellowship is still underway. Findings should be reviewed promptly and translated into practical adjustments where possible.
+:::
+
+
+## Guidance on Data Collection and Analysis
+
+Data collection should be planned in advance and integrated into the Fellowship delivery schedule. Surveys should be short enough to encourage completion, but detailed enough to capture meaningful information. Participants should be given clear instructions on the purpose of each survey, how the data will be used, and whether responses will be anonymous or identifiable.
+
+Where possible, surveys should be administered using a consistent platform across all three evaluation points. This helps ensure that responses are comparable over time and simplifies data management. Fellows should be reminded that honest feedback is valuable and that both positive and critical responses will be used to strengthen the Fellowship.
+
+Quantitative analysis should focus on changes in self-assessed competency scores over time. For each competency area, the analysis may include mean scores at baseline, midline, and endline, as well as changes between assessment points. These summaries can help identify areas where fellows report the strongest gains and areas where further support may be needed.
+
+Qualitative analysis should focus on recurring themes in open-ended responses. Responses can be grouped into categories such as useful content, challenging topics, delivery feedback, capstone support needs, and anticipated application. Short illustrative quotes may be used in reporting, provided confidentiality is protected.
+
+::: {.callout-important appearance="default"}
+## Data Interpretation
+
+Changes in Likert scores should be interpreted alongside qualitative feedback. A numerical increase may indicate improved confidence, but open-ended responses help explain why change occurred and what additional support fellows may still need.
+:::
+
+When reporting findings, results should be presented in a way that is clear and actionable. Long tables of scores may be useful for internal analysis, but programme teams and facilitators may benefit more from short summaries that identify key trends, priority areas for improvement, and practical recommendations.
+
+## Using Feedback to Adapt and Improve Delivery
+
+Feedback should be treated as an active part of Fellowship delivery rather than as a final reporting requirement. The M&E process should create structured opportunities for the delivery team to reflect on what is working, respond to fellows’ needs, and improve the curriculum over time.
+
+Midline feedback is particularly useful for real-time adaptation. For example, if fellows report low confidence in interpreting uncertainty, facilitators may choose to revisit this topic in a later session, provide an additional worked example, or create more time for discussion during capstone support sessions. If fellows report that exercises are too technical or not sufficiently connected to programme realities, facilitators can adjust examples, prompts, and group work to strengthen relevance.
+
+Endline feedback should be used to inform future cohorts. This may include revising module sequencing, strengthening pre-reading materials, adapting facilitation approaches, adjusting the balance between technical inputs and discussion, or improving support for capstone projects.
+
+::: {.callout-tip appearance="default"}
+## Closing the Feedback Loop
+
+Where possible, facilitators should communicate how participant feedback has been used. This reinforces trust, encourages honest engagement, and demonstrates that evaluation is part of a shared learning process.
+:::
+
+
++----------------------+------------------------------------------------------------+
+| Feedback Finding     | Possible Adaptation                                        |
++----------------------+------------------------------------------------------------+
+| Fellows want more    | Add worked examples, optional technical refreshers, or     |
+| technical support    | additional office hours                                    |
++----------------------+------------------------------------------------------------+
+| Fellows need clearer | Strengthen links between module content and capstone       |
+| capstone guidance    | milestones                                                 |
++----------------------+------------------------------------------------------------+
+| Fellows find content | Use more country examples, applied scenarios, and          |
+| too abstract         | programme-relevant discussion prompts                      |
++----------------------+------------------------------------------------------------+
+| Fellows report low   | Add structured peer discussion, facilitator check-ins, and |
+| confidence           | additional reflection activities                           |
++----------------------+------------------------------------------------------------+
+| Fellows request more | Increase time for breakout discussions, country team work, |
+| interaction          | and plenary synthesis                                      |
++----------------------+------------------------------------------------------------+
+
+
+A strong M&E approach should therefore support both accountability and learning. It should document the value of the Fellowship while also providing timely information that helps facilitators, partners, and future cohorts improve the experience and strengthen the use of modelling evidence in malaria decision-making.

@@ -1,0 +1,37 @@
+---
+title: "Glossary"
+---
+
+### Glossary of Key Modelling Terms
+
+This glossary provides definitions for key modelling and evaluation terms used throughout the Fellowship curriculum. It is intended to support a shared understanding of technical language across fellows, facilitators, programme teams, and policy stakeholders.\
+\
+The glossary has been adapted from the [World Health Organization (2026) publication *Guidance for using modelling for immunization decision-making*.](https://www.who.int/publications/b/81996) Where useful, definitions have been lightly edited for readability and relevance to the RMMT Fellowship context.
+
+<br>
+
+|  |  |
+|-------------|------------------------------------------------|
+| Term | Definition |
+| Assumption | An input or condition taken as true for modelling purposes, which may not fully reflect real-life complexity. |
+| Benefit–cost ratio | The ratio of benefits to costs. This metric is commonly used in benefit–cost analysis to evaluate two or more policy options, interventions, or programmes in terms of their costs and outcomes in monetary terms. |
+| Case fatality ratio | The ratio of the number of deaths from a disease to the number of cases of the disease. |
+| Counterfactual | A scenario representing what has not happened or would not happen. |
+| Cross-validation / Cross-validity | A type of model comparison that can be used during model validation. It consists of testing a model on data excluded from the dataset. This may involve the same model with different subsets of data, or different sets of parameters. |
+| Deterministic | A type of model in which the outcome is determined only by the inputs and not by randomness. |
+| External validity | A type of model comparison that can be used during model validation. It consists of comparing model results with the real world. |
+| Face validity | A type of model comparison that can be used during model validation. It consists of conferring with field experts to evaluate model structure, data sources, assumptions, and results. |
+| Incremental cost-effectiveness ratio | A metric used in cost–utility analysis to compare two policy options, interventions, or programmes. It is calculated as the difference in costs divided by the difference in health outcomes between the interventions or programmes. The ratio represents the additional cost required to gain one additional unit of health benefit, such as a life-year gained or a disability-adjusted life-year averted. |
+| Internal validity | A type of model comparison that can be used during model validation. It consists of checking the accuracy of coding and data analyses. |
+| Mathematical model | A representation of a real-world system using mathematical concepts, including equations or formulas. |
+| Model fitting / Model fit | The process of adjusting the parameters of a model so its outputs closely match, or are calibrated to, observed data. This ensures the model accurately represents historical or current conditions before being used for projections or scenario analyses. |
+| Model validation | The process of assessing whether a model accurately predicts data that were not used during model fitting. It involves testing the reliability and credibility of the model in different contexts or time periods. |
+| Multimodel comparison | A type of model cross-validation that involves comparing the outputs of different models that address the same question or scenario. This can help identify consistent findings, understand uncertainties, and assess how differences in model structure or assumptions influence results. |
+| Parameter | A value used to represent a property in a model, such as the rate at which people with an infection recover. When a parameter is adjusted, the model’s result will change. |
+| Predictive validity | A measure of how well a model performs in predicting the occurrence of actual empirically observed outcomes. |
+| Projection | An estimate of what could happen in the future, based on model assumptions. |
+| Scenario | A specific set of assumptions used in the model to estimate what might happen under certain conditions, such as different levels of vaccine coverage or target age groups. |
+| Sensitivity analysis | Testing how results change when assumptions or inputs are varied to check the robustness of findings. |
+| SIR model | A model in which the population is divided into people who are susceptible, infected, or removed/recovered. People in the population move between these different states. |
+| Stochastic | A model that will produce a different output, or result, each time it is run, introducing randomness. |
+| Uncertainty | The degree to which model results might vary because of incomplete knowledge or variability in data. |

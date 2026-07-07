@@ -1,0 +1,139 @@
+---
+title: "15. Communicating Model Findings"
+---
+
+## Overview
+
+This module focuses on communicating modelling findings clearly, accurately, and strategically to different audiences. Participants explore how to translate complex technical information into accessible messages that support policy and programme decisions, advocacy, and stakeholder engagement.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   What are good practices for communicating model findings?
+
+-   How can communication be tailored to different audiences?
+
+-   What tools and formats best support clear and impactful messaging?
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Audience-centred communication
+
+-   Translating technical findings into actionable messages
+
+-   Storytelling with data and evidence
+
+-   Communicating assumptions and uncertainty
+
+-   Policy briefs, presentations, and visual summaries
+:::
+
+## Delivery Plan
+
+This module consists of...
+
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Topic                     | Description                                                    | Duration   | Format                         |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Why modelling matters in malaria programmes                    |            |                                |
+|                           |                                                                |            |                                |
+|                           | Examples of modelling informing policy decisions               |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Comparing model types and applications                         |            |                                |
+|                           |                                                                |            |                                |
+|                           | Strengths and limitations of different approaches              |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
+|                           |                                                                |            |                                |
+|                           | Small groups discuss whether modelling would be useful and why |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
+|                           |                                                                |            |                                |
+|                           | Challenges participants have encountered in using evidence     |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Common misconceptions about modelling                          |            |                                |
+|                           |                                                                |            |                                |
+|                           | Where to next                                                  |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+
+::: {.exercise-box}
+### Practical Exercise
+
+Exercise Title: Translating Findings for Policymakers
+
+**Instructions:\
+** Participants:
+
+1.  Review a technical modelling summary
+
+2.  Develop a short communication product for a policymaker audience
+
+3.  Present key findings and recommendations in 3–5 minutes
+
+4.  Receive peer and facilitator feedback
+
+### Facilitator Guidance
+
+-   Encourage concise, action-oriented messaging
+
+-   Reinforce that communication should focus on decisions and implications
+
+-   Highlight the importance of tailoring communication to audience needs
+
+-   Encourage participants to simplify without oversimplifying
+:::
+
+### Practical Exercise
+
+Exercise Title: Translating Findings for Policymakers
+
+**Instructions:\
+** Participants:
+
+1.  Review a technical modelling summary
+
+2.  Develop a short communication product for a policymaker audience
+
+3.  Present key findings and recommendations in 3–5 minutes
+
+4.  Receive peer and facilitator feedback
+
+### Facilitator Guidance
+
+-   Encourage concise, action-oriented messaging
+
+-   Reinforce that communication should focus on decisions and implications
+
+-   Highlight the importance of tailoring communication to audience needs
+
+-   Encourage participants to simplify without oversimplifying
+
+::: {.callout-caution appearance="default"}
+## What we learned along the way
+
+Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
+
+Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
+:::
+
+## Materials and Resources
+
+-   Example policy briefs and presentations
+
+-   Communication templates
+
+-   Visualisation examples
+
+-   Facilitator slides
+
+### 

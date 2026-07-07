@@ -1,0 +1,110 @@
+---
+title: "9. Data Visualisation and Interpretation"
+---
+
+## Overview
+
+This module explores how data and modelling outputs can be visualised and interpreted effectively to support decision-making. Participants examine different approaches to presenting information clearly, accurately, and persuasively, while also identifying common pitfalls in interpretation. The module emphasises the role of visualisation in translating technical evidence for policy and programme audiences.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   Demonstrate effective ways to visualise modelling data and outputs
+
+-   Understand how visualisation choices influence interpretation and decision-making
+
+-   Identify common misinterpretations and communication challenges and how these can be avoided
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Principles of effective data visualisation
+
+-   Matching visuals to audiences and objectives
+
+-   Interpreting trends, comparisons, and uncertainty
+
+-   Avoiding misleading or overly complex visuals
+
+-   Storytelling with data
+:::
+
+## Delivery Plan
+
+This module consists of two sessions, a lecture and a practical. These can be run back-to-back or spread over separate days depending on the schedule being followed. The session is designed to be interactive, with opportunities for participants to engage in a practical exercise.
+
++----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
+| Topic                                  | Description                                                            | Duration  | Format                      |
++----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
+| Introduction to Data Visualisation     | Why visualisation matters for policy engagement                        | 20 min    | Presentation                |
+|                                        |                                                                        |           |                             |
+|                                        | Model outputs and sources of bias                                      |           |                             |
++----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
+| Principles of Data Visualisation       | Accuracy and honesty                                                   | 40 min    | Presentation                |
+|                                        |                                                                        |           |                             |
+|                                        | Clarity and simplicity                                                 |           |                             |
+|                                        |                                                                        |           |                             |
+|                                        | Fairness and objectivity                                               |           |                             |
+|                                        |                                                                        |           |                             |
+|                                        | Privacy and trust                                                      |           |                             |
+|                                        |                                                                        |           |                             |
+|                                        | Inclusiveness and accessibility                                        |           |                             |
++----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
+| Interactive Exercise & Discussion      | Examples of effective and ineffective visuals in malaria model outputs | 45 min    | Interactive plenary session |
+|                                        |                                                                        |           |                             |
+|                                        | Balancing simplicity and technical accuracy                            |           |                             |
++----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
+| Practical: Plotting and Interpretation | Use of wireframes                                                      | 45-60 min | Practical session (plenary) |
+|                                        |                                                                        |           |                             |
+|                                        | Practical tools for plotting and wireframes                            |           |                             |
++----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
+| Reflection and Wrap-Up                 | Key takeaways                                                          | 15 min    | Presentation                |
+|                                        |                                                                        |           |                             |
+|                                        | Where to next                                                          |           |                             |
++----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
+
+### Practical Exercise
+
+Exercise Title: Improving a Visualisation
+
+**Instructions:\
+**Participants:
+
+1.  Review a poorly designed chart or dashboard
+
+2.  Identify interpretation challenges or misleading elements
+
+3.  Redesign the visual to improve clarity and policy relevance
+
+4.  Present and explain their changes
+
+### Facilitator Guidance
+
+-   Use examples relevant to malaria programmes and modelling outputs
+
+-   Encourage participants to focus on the “message” behind the visual
+
+-   Reinforce accessibility and audience-centred communication
+
+-   Discuss both design and interpretation challenges
+
+::: {.callout-caution appearance="default"}
+## What we learned along the way
+
+Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
+
+Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
+:::
+
+## Materials and Resources
+
+-   Example charts and dashboards
+
+-   Visualisation design checklist
+
+-   Flipcharts or software tools
+
+-   Facilitator presentation slides

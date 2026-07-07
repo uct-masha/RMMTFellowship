@@ -1,0 +1,140 @@
+---
+title: "14. Implementing Modelling Projects"
+---
+
+## Overview
+
+This module introduces SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis as a practical tool for assessing the feasibility and implementation considerations of modelling projects. Participants explore how SWOT analysis can support strategic planning, stakeholder engagement, and risk mitigation within modelling initiatives.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   How can SWOT analysis support the planning of a modelling project?
+
+-   What internal and external factors influence successful implementation?
+
+-   How can risks and opportunities be managed strategically?
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Strengths and weaknesses within institutions and programmes
+
+-   External opportunities and threats
+
+-   Strategic planning and risk mitigation
+
+-   Stakeholder and operational considerations
+
+-   Sustainability and implementation readiness
+:::
+
+## Delivery Plan
+
+This module consists of...
+
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Topic                     | Description                                                    | Duration  | Format                         |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Introduction to modelling | What is modelling?                                             | 30 min    | Presentation                   |
+|                           |                                                                |           |                                |
+|                           | Why modelling matters in malaria programmes                    |           |                                |
+|                           |                                                                |           |                                |
+|                           | Examples of modelling informing policy decisions               |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Different types of models | Overview of modelling approaches                               | 30 min    | Presentation                   |
+|                           |                                                                |           |                                |
+|                           | Comparing model types and applications                         |           |                                |
+|                           |                                                                |           |                                |
+|                           | Strengths and limitations of different approaches              |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min | Small group break out exercise |
+|                           |                                                                |           |                                |
+|                           | Small groups discuss whether modelling would be useful and why |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min    | Group discussion (plenary)     |
+|                           |                                                                |           |                                |
+|                           | Challenges participants have encountered in using evidence     |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min | Presentation                   |
+|                           |                                                                |           |                                |
+|                           | Common misconceptions about modelling                          |           |                                |
+|                           |                                                                |           |                                |
+|                           | Where to next                                                  |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+
+Part 1: Introduction to SWOT Analysis (30 min)
+
+-   Purpose and structure of SWOT analysis
+
+-   Applications in modelling and programme planning
+
+Part 2: Identifying Internal and External Factors (45 min)
+
+-   Institutional strengths and limitations
+
+-   Political, operational, and funding environments
+
+Part 3: Practical Exercise (45–60 min)
+
+-   Participants conduct a SWOT analysis for a proposed modelling project
+
+-   Identify risks, opportunities, and mitigation strategies
+
+Part 4: Group Discussion (30 min)
+
+-   Comparing implementation challenges across contexts
+
+-   Developing realistic next steps and partnerships
+
+Part 5: Reflection and Wrap-Up (15 min)
+
+-   Lessons for implementation planning and sustainability
+
+### Practical Exercise
+
+Exercise Title: SWOT Analysis for a Modelling Initiative
+
+**Instructions:\
+** Participants:
+
+1.  Select a proposed modelling project or programme question
+
+2.  Identify strengths, weaknesses, opportunities, and threats
+
+3.  Develop mitigation or engagement strategies
+
+4.  Present recommendations for implementation planning
+
+### Facilitator Guidance
+
+-   Encourage realistic assessment rather than overly optimistic planning
+
+-   Reinforce that implementation challenges are expected and manageable
+
+-   Use examples relevant to participant contexts and programmes
+
+-   Focus on translating analysis into practical action
+
+::: {.callout-caution appearance="default"}
+## What we learned along the way
+
+Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
+
+Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
+:::
+
+## Materials and Resources
+
+-   SWOT analysis templates
+
+-   Example implementation case studies
+
+-   Group worksheets
+
+-   Facilitator presentation slides
+
+### 

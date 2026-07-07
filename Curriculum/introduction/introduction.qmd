@@ -1,0 +1,48 @@
+---
+title: "RMMT Fellowship"
+---
+
+## The Challenge
+
+Malaria in Africa continues to be of great public health concern despite significant progress in recent years. To effectively address the malaria burden and achieve the goal of elimination, it is imperative to have robust, evidence-based strategies and policies. Disease modelling plays a crucial role in informing decision-making by providing insights into disease transmission and dynamics, evaluating the impact of different interventions, and identifying optimal strategies for malaria control and elimination.
+
+::: {.orange-box }
+*To progress towards malaria elimination, a challenge often persists in translating modelling outputs into relevant policy and strategies for implementation.*
+:::
+
+
+## Malaria Modelling and Analytics: Leaders in Africa
+
+The Regional Malaria Modelling Translational (RMMT) Fellowship is part of the Malaria Modelling and Analytics: Leaders in Africa (MMALA) programme. MMALA seeks to develop a critical mass of African malaria modellers to meet the need for tailored quantitative malaria decision support in a sustainable way. It provides a nexus for the training and career development of local individuals who will be able to address the needs of their National Malaria Programmes (NMPs) to shape strategic plans, secure necessary funds, and evaluate and improve the impact of control programmes.
+
+MMALA achieves this by building capacity in malaria modelling and working with strategic partners to increase the uptake of modelling in decision-making; facilitating the sharing of expertise among modellers in sub-Saharan Africa (SSA); providing holistic skills through training and active mentorship; and building an enabling environment to improve modellers' access to timely, high-quality data. A highly skilled cohort of African modellers, working in an enabling environment, facilitated by strategic partners, alongside NMPs who have developed the appetite and literacy for incorporating modelling approaches in strategic planning will culminate from this project.
+
+## Regional Malaria Modelling Translational Fellowship
+
+The RMMT Fellowship is an accredited, six-month executive fellowship programme targeted at building modelling translational capacity in Africa. Led by the Modelling and Simulation Hub, Africa (MASHA) at the University of Cape Town (UCT) in partnership with the Southern African Development Community (SADC) Malaria Elimination 8 Initiative (E8), and the Clinton Health Access Initiative (CHAI) South Africa Office, funded by the Gates Foundation, the fellowship targets key decision-makers, policymakers and implementers within the public sector working across various levels in health management. The inaugural RMMT Fellowship cohort consisted of 21 fellows from seven countries: Angola, Eswatini, Ghana, Mozambique, Namibia, South Africa, and Zambia.
+
+::: {.orange-box }
+*The RMMT fellowship focuses on bridging the gap between technical modelling outputs and actionable policy strategies to advance malaria control and elimination efforts.*
+:::
+
+The inaugural RMMT Fellowship was held May to October 2025, in a hybrid format with three immersive in-person weeks and virtual sessions in between. Throughout the programme, fellows worked in country teams towards a Capstone Project, which was to develop a modelling project on a policy topic of priority for their country.
+
+## Fellowship Structure, Delivery Approach, and Learning Journey
+
+The RMMT Fellowship is designed as a structured, six-month learning journey that combines conceptual understanding with practical application. Participants engage with modelling through a sequence of learning activities that progressively build confidence and capability, supported by opportunities to apply learning to real-world programme challenges.
+
+The Fellowship is delivered through a hybrid structure to maximise contact time while fitting in with the demands of fellows’ work schedules. There are three immersive, full-time in-person blocks, with virtual sessions held twice a month in between the immersive week blocks.
+
+A range of teaching methods is employed to support adult learning and practical application. These include lectures to introduce key concepts, facilitated discussions to draw on participant experience, and interactive and group-based exercises to apply learning to real-world scenarios. The programme also emphasises peer learning, mentorship, and engagement with external experts, fostering collaboration and strengthening the link between technical knowledge and policy application.
+
+A central component of the programme is the Capstone Project, where fellows work in country teams to develop modelling-focused proposals addressing priority policy questions. This applied element ensures that learning is directly linked to programme needs and supports the translation of knowledge into practice.
+
+## Target Audience and Participant Profile
+
+The Fellowship is targeted at professionals working within National Malaria Programmes (NMPs), Ministries of Health, and partner organisations who are involved in policy development, programme implementation, and data-driven decision-making. Participants are typically nominated by their respective countries and represent a diverse range of roles, including programme managers, monitoring and evaluation specialists, surveillance officers, data analysts, and policy advisors.
+
+This diversity is intentional, reflecting the need for cross-functional engagement to effectively translate modelling into practice. Participants bring a combination of technical expertise and practical experience, ensuring that learning is grounded in real-world programme contexts and that modelling approaches are aligned with operational needs.
+
+## RMMT Fellowship - 2025 Inaugural Cohort
+
+![](/images/RMMT%20Fellowship_At%20a%20Glance.png)

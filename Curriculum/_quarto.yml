@@ -1,0 +1,75 @@
+project:
+  type: book
+
+book:
+  title: "RMMT Fellowship Curriculum Pack"
+  subtitle: "Regional Malaria Modelling Translational Fellowship"
+  author: "Silal, SP., Hounsell, RA., Wanjala, S."
+  date: today
+  reader-mode: true
+  sidebar:
+    style: floating
+    background: white
+
+  chapters:
+    - index.qmd
+    - front-matter/acknowledgements.qmd
+    - introduction/introduction.qmd
+    - curriculum-framework/curriculum-framework.qmd
+    - capstone/capstone-projects.qmd
+
+    - part: "Module Guides"
+      chapters:
+        - modules/module-00-orientation.qmd
+        - modules/module-01-modelling.qmd
+        - modules/module-02-systems-thinking.qmd
+        - modules/module-03-model-building.qmd
+        - modules/module-04-engaging-with-modelling.qmd
+        - modules/module-05-roles-responsibilities.qmd
+        - modules/module-06-question-formulation.qmd
+        - modules/module-07-designing-malaria-models.qmd
+        - modules/module-08-critiquing-models.qmd
+        - modules/module-09-data-visualisation.qmd
+        - modules/module-10-scenario-analysis.qmd
+        - modules/module-11-interpreting-outputs.qmd
+        - modules/module-12-uncertainty.qmd
+        - modules/module-13-health-economics.qmd
+        - modules/module-14-implementing-projects.qmd
+        - modules/module-15-communicating-findings.qmd
+
+
+    - part: "Facilitator Guide"
+      chapters:
+        - facilitator-guide/facilitator-guidance.qmd
+        - facilitator-guide/cross-cutting-skills.qmd
+        - facilitator-guide/adaptation-and-scale-up.qmd
+        
+    - part: "Monitoring, Evaluation, and Learning"
+      chapters:
+        - mel/mel-framework.qmd
+        - mel/competency-assessment.qmd
+        
+    - part: "Additional Resources"
+      chapters:
+        - resources/abbreviations.qmd
+        - resources/glossary.qmd
+        - resources/readings.qmd
+        - resources/tools.qmd
+
+format:
+  html:
+    theme: 
+    - cosmo
+    - styles.scss
+    page-layout: article
+    toc: true
+    number-sections: false
+    code-fold: true
+    smooth-scroll: true
+    callout-appearance: simple
+    grid:
+      sidebar-width: 330px
+  pdf:
+    documentclass: scrreprt
+
+editor: source

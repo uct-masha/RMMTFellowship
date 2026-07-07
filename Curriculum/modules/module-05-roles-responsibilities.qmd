@@ -1,0 +1,92 @@
+---
+title: "5. Roles and Responsibilities"
+---
+
+## Overview
+
+This module examines the different roles involved in the modelling process and the importance of collaboration between technical experts, policymakers, programme implementers, and partners. Participants explore how responsibilities are distributed across the modelling lifecycle and identify good practices for ensuring transparency, accountability, and effective engagement.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   Identify what roles different stakeholders play in the modelling process
+
+-   Understand how collaboration between modellers and decision-makers can be structured effectively
+
+-   Define responsibilities to support transparency and accountability in modelling
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Stakeholder roles in modelling
+
+-   Collaboration and co-development
+
+-   Accountability and transparency
+
+-   Decision-maker engagement
+
+-   Governance and ownership of modelling processes
+:::
+
+## Delivery Plan
+
+This module is comprised of one main activity. However, we split the delivery over two session—one during the in-person block and one during a virtual session.
+
++-----------------------------+------------------------------------------------------------------------------------------+-----------+-------------------------------------------------------+
+| Topic                       | Description                                                                              | Duration  | Format                                                |
++-----------------------------+------------------------------------------------------------------------------------------+-----------+-------------------------------------------------------+
+| Interactive Plenary Session | Introduce exercise                                                                       | 45-60 min | Group discussion (plenary) during in person block     |
+|                             |                                                                                          |           |                                                       |
+|                             | Identification of key stakeholders                                                       |           |                                                       |
+|                             |                                                                                          |           |                                                       |
+|                             | Worked example of stakeholder mapping and prioritisation for stage 1.                    |           |                                                       |
++-----------------------------+------------------------------------------------------------------------------------------+-----------+-------------------------------------------------------+
+| Break-out Group Exercise    | Roles and responsibilities for stakeholders at different stages of the modelling process | 45–60 min | Small group break out exercise during virtual session |
++-----------------------------+------------------------------------------------------------------------------------------+-----------+-------------------------------------------------------+
+| Group Discussion            | Feedback on prioritisation of stakeholder involvement                                    | 15-30 min | Group discussion (plenary)                            |
++-----------------------------+------------------------------------------------------------------------------------------+-----------+-------------------------------------------------------+
+
+### Practical Exercise
+
+**Exercise Title**: Stakeholder Role Mapping
+
+**Instructions:\
+**Using the provided template, participants work in groups to map the priority level for involvement of different stakeholders across the key steps in the modelling process. Priority levels are assigned from 1 (lowest) to 5 (highest), to indicate how important it is for that stakeholder to be involved in the corresponding activity.
+
+During the plenary session, the facilitator guides the group discussion to identify who the potential stakeholders are and do a worked example of the first modelling project stage.
+
+For this exercise, we have grouped the process of a modelling project into four stages. Each stage has 5-6 activities associated with it.
+
+1.  Problem formulation
+
+2.  Data conceptualisation and model inputs
+
+3.  Model development and validation
+
+4.  Scenario formulation and results
+
+Example stakeholders: Decision-makers, Modellers, Ministry of Health, NaMP Management, NMP Implementers, Health staff, Other ministries, Advisory bodies, Disease specialists, Community leaders, NGOs, Private sector
+
+### Facilitator Guidance
+
+-   Encourage participants to reflect on their own institutional roles
+
+-   Reinforce that successful modelling requires continuous engagement, not one-off consultation
+
+-   Highlight the importance of shared ownership and communication
+
+::: {.callout-caution appearance="default"}
+## Practical reflections from delivering the inaugural cohort
+
+TBC
+:::
+
+## Materials and Resources
+
+-   Stakeholder mapping templates
+
+-   Facilitation worksheets

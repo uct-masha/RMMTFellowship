@@ -1,0 +1,100 @@
+---
+title: "7. Designing Malaria Models"
+---
+
+## Overview
+
+This module explores how models are designed to address specific malaria policy and programme questions. Participants examine how different model features, assumptions, and levels of complexity influence outputs and usability. The module emphasises balancing technical rigour with practical applicability, ensuring that models remain aligned with programme priorities and decision-making needs.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   Prioritise model features to address different malaria questions
+
+-   Critically discuss the trade-offs exist between model complexity and usability
+
+-   Understand how context influences model design choices
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Matching model design to policy questions
+
+-   Complexity vs simplicity
+
+-   Data availability and feasibility
+
+-   Intervention pathways and transmission dynamics
+
+-   Context-specific design considerations
+:::
+
+## Delivery Plan
+
+This module consists of a single session, which was delivered virtually during the inaugural cohort.
+
++------------------------------------------+--------------------------------------------------+----------+--------------------------------+
+| Topic                                    | Description                                      | Duration | Format                         |
++------------------------------------------+--------------------------------------------------+----------+--------------------------------+
+| Model Design - Overview and Key Features | Key features of malaria models                   | 20 min   | Presentation                   |
+|                                          |                                                  |          |                                |
+|                                          | Linking features to model questions              |          |                                |
+|                                          |                                                  |          |                                |
+|                                          | Complexity and feasibility                       |          |                                |
+|                                          |                                                  |          |                                |
+|                                          | Worked example: Seasonal malaria chemoprevention |          |                                |
++------------------------------------------+--------------------------------------------------+----------+--------------------------------+
+| Interactive Exercise                     | Model feature prioritisation                     | 30 min   | Small group break out exercise |
+|                                          |                                                  |          |                                |
+|                                          | Data quality and availability                    |          |                                |
++------------------------------------------+--------------------------------------------------+----------+--------------------------------+
+| Group Discussion                         | Feedback from break out groups                   | 30 min   | Group discussion (plenary)     |
++------------------------------------------+--------------------------------------------------+----------+--------------------------------+
+| Reflection and Wrap-Up                   | Key takeaways                                    | 10 min   | Presentation                   |
+|                                          |                                                  |          |                                |
+|                                          | Where to next                                    |          |                                |
++------------------------------------------+--------------------------------------------------+----------+--------------------------------+
+
+### Practical Exercise
+
+Exercise Title: Prioritising Model Features
+
+**Instructions:\
+**In allocated groups, participants work in groups to review the list of model features and prioritise each for the assigned modelling question, considering:
+
+-   **Priority level**: Which features are most essential to include in the model to address the key aspects of the intervention and question of interest in your setting?
+
+-   **Input availability and quality**: What data is necessary and available to inform each feature? Is it easily available? Is it of high quality?
+
+-   Assign `High, Medium, Low` to each feature for `Priority Level` and `Availability & Quality`. If relevant, add any discussion points or debates as a comment in the corresponding cell.
+
+Example questions to assign each break-out group:
+
+-   What will be the impact of reducing LLIN coverage immediately?
+
+-   What impact will the community healthworker programme have on improving surveillance?
+
+-   What will be the impact of reducing IRS coverage in locality X?
+
+-   Should we introduce the R21 malaria vaccine in high burden areas?
+
+During the plenary discussion, groups present and compare the responses.
+
+### Facilitator Guidance
+
+-   Focus on practical reasoning rather than technical modelling detail
+
+-   Encourage discussion around trade-offs and feasibility
+
+-   Reinforce that “more complex” does not always mean “better”
+
+-   Use real-world malaria examples wherever possible
+
+## Materials and Resources
+
+-   Feature prioritisation worksheets
+
+-   Facilitator presentation slides

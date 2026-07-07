@@ -1,0 +1,119 @@
+---
+title: "6. Question Formulation and Data"
+---
+
+## Overview
+
+This module focuses on developing clear, policy-relevant modelling questions that guide the design and use of models. Strong question formulation is critical to ensuring that modelling efforts are aligned with programme priorities and produce actionable insights. This session emphasises the link between policy needs, programme challenges, and the types of questions that modelling can meaningfully address.
+
+::: callout-tip
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   Understand the kind of questions that modelling can address
+
+-   Define clear, relevant, and actionable modelling questions
+
+-   Identify what makes a modelling question useful for policy and decision-making
+
+-   Evaluate common data sources needed to address different modelling questions and their suitability for modelling tasks
+:::
+
+::: callout-note
+## Key Concepts
+
+-   Policy vs technical questions
+
+-   Decision-focused framing
+
+-   Scope and feasibility
+
+-   Types of modelling questions (e.g. impact, optimisation, comparison)
+
+-   Aligning questions with available data and timelines
+:::
+
+## Delivery Plan
+
+This module consists of two main components: question formulation and data requirements. We split these into two sessions, the first—topics marked (1) in the table below—delivered during the in-person Block 1 and the second—topics marked (2) in the table below—during a virtual session.
+
++-----------------------------------+------------------------------------------------------------------------------------+-----------+--------------------------------+
+| Topic                             | Description                                                                        | Duration  | Format                         |
++-----------------------------------+------------------------------------------------------------------------------------+-----------+--------------------------------+
+| Modelling Questions (1)           | Types of questions modelling can and cannot address                                | 15 min    | Presentation                   |
++-----------------------------------+------------------------------------------------------------------------------------+-----------+--------------------------------+
+| Question and Analysis Mapping (1) | Example policy question: *Should we introduce SMC in medium to high burden zones?* | 45-60 min | Group discussion (plenary)     |
+|                                   |                                                                                    |           |                                |
+|                                   | What questions need to be answered to make a decision?                             |           |                                |
+|                                   |                                                                                    |           |                                |
+|                                   | What analyses/assessments are required to answer them?                             |           |                                |
++-----------------------------------+------------------------------------------------------------------------------------+-----------+--------------------------------+
+| Question Formulation (1)          | Questions vs scenarios                                                             | 15-30 min | Presentation with discussion   |
+|                                   |                                                                                    |           |                                |
+|                                   | Question formulation                                                               |           |                                |
++-----------------------------------+------------------------------------------------------------------------------------+-----------+--------------------------------+
+| Group Exercise (2)                | From modelling question to data requirements (see exercise details below)          | 60 min    | Small group break out exercise |
++-----------------------------------+------------------------------------------------------------------------------------+-----------+--------------------------------+
+| Data Requirements (2)             | Types of data and inputs for modelling                                             | 20 min    | Presentation                   |
+|                                   |                                                                                    |           |                                |
+|                                   | Sources and alternatives                                                           |           |                                |
+|                                   |                                                                                    |           |                                |
+|                                   | Impact of data quality                                                             |           |                                |
++-----------------------------------+------------------------------------------------------------------------------------+-----------+--------------------------------+
+
+### Practical Exercise
+
+**Exercise Title:** From Modelling Question to Data Requirements
+
+The aim of this exercise is to equip fellows to translate a modeliing question into concrete data requirements and to identify and classify data types for various modeling scenarios.
+
+**Instructions:**
+
+This exercise builds on the plenary group discussion where, for the general question *Should we introduce Seasonal Malaria Chemoprophylaxis in medium to high burden zones?*, several potential analyses were identified.
+
+Example topics (of analyses): Malaria risk, Social and behavioural access and acceptability, Implementation, Environmental considerations
+
+For each topic consider the following aspects when creating your data list.
+
+-   What data is needed?
+
+-   What are the available data sources in your country/context? 
+
+-   Is it available subnationally? 
+
+-   Where are these data used? 
+
+-   How do data quality & suitability affect models? 
+
+-   What costing data is required?
+
+-   If the data are not available, are there alternatives?
+
+**Suggested timing:** 45 min for breakout group discussion and 30 min for report back and plenary discussion.
+
+### Facilitator Guidance
+
+-   Encourage participants to start from real decisions they need to make
+
+-   Push for specificity (e.g. population, geography, timeframe)
+
+-   Challenge overly broad or vague questions
+
+-   Help participants distinguish between:
+
+    -   Questions modelling can answer
+
+    -   Questions better addressed with routine data or surveys
+
+-   Reinforce the importance of feasibility and data availability
+
+::: {.callout-caution appearance="default"}
+## Practical reflections from delivering the inaugural cohort
+
+Consider inviting a guest speaker to present before or after this module. During the inaugural cohort, we had a guest speaker in Immersive Week 1, who discussed the role of modelling to support policy, when modelling is/is not appropriate, and the challenges with data availability and quality. This provided a platform for rich discussion relating to this module.
+:::
+
+## Materials and Resources
+
+-   Slide decks

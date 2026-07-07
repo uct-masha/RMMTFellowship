@@ -1,0 +1,145 @@
+---
+title: "11. Interpreting Model Outputs"
+---
+
+## Overview
+
+This module focuses on interpreting modelling outputs and understanding what results mean within policy and programme contexts. Participants learn how to assess outputs critically, interpret trends and uncertainty, and translate findings into meaningful insights for decision-making.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   What do model outputs represent, and how should they be interpreted?
+
+-   How do assumptions and uncertainty influence outputs?
+
+-   How can outputs be translated into actionable insights for decision-making?
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Types of modelling outputs
+
+-   Interpretation of trends and comparisons
+
+-   Assumptions and uncertainty
+
+-   Contextualising outputs within programmes
+
+-   Translating findings into recommendations
+:::
+
+
+
+## Delivery Plan 
+
+This module consists of...
+
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Topic                     | Description                                                    | Duration   | Format                         |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Why modelling matters in malaria programmes                    |            |                                |
+|                           |                                                                |            |                                |
+|                           | Examples of modelling informing policy decisions               |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Comparing model types and applications                         |            |                                |
+|                           |                                                                |            |                                |
+|                           | Strengths and limitations of different approaches              |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
+|                           |                                                                |            |                                |
+|                           | Small groups discuss whether modelling would be useful and why |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
+|                           |                                                                |            |                                |
+|                           | Challenges participants have encountered in using evidence     |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Common misconceptions about modelling                          |            |                                |
+|                           |                                                                |            |                                |
+|                           | Where to next                                                  |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+
+Part 1: Introduction to Model Outputs (30 min)
+
+-   Common output types and formats
+
+-   Understanding what outputs represent
+
+Part 2: Interpreting Results (45 min)
+
+-   Trends, comparisons, and uncertainty
+
+-   Common interpretation challenges
+
+Part 3: Practical Exercise (45–60 min)
+
+-   Participants review example outputs and interpret findings
+
+-   Identify implications for policy or programmes
+
+Part 4: Group Discussion (30 min)
+
+-   Translating outputs into recommendations
+
+-   Avoiding over-interpretation or misuse
+
+Part 5: Reflection and Wrap-Up (15 min)
+
+-   Key lessons for evidence-informed interpretation
+
+
+
+### Practical Exercise
+
+Exercise Title: Interpreting Outputs for Decision-Making
+
+**Instructions:\
+** Participants:
+
+1.  Review example modelling outputs
+
+2.  Identify key findings and trends
+
+3.  Discuss assumptions and uncertainty
+
+4.  Develop 2–3 policy or programme implications
+
+Groups present their interpretations and recommendations.
+
+###  Facilitator Guidance
+
+-   Reinforce that outputs should always be interpreted within context
+
+-   Encourage participants to question assumptions and uncertainty
+
+-   Focus on decision relevance rather than technical detail alone
+
+-   Use examples relevant to participant settings and roles
+
+::: {.callout-caution appearance="default"}
+## What we learned along the way
+
+Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
+
+Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
+:::
+
+## Materials and Resources
+
+-   Example model outputs and graphs
+
+-   Interpretation guide/checklist
+
+-   Facilitator slides
+
+-   Group discussion templates
+

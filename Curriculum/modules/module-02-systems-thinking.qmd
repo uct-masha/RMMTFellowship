@@ -1,0 +1,110 @@
+---
+title: "2. Systems Thinking"
+---
+
+## Overview
+
+This module introduces systems thinking as a framework for understanding the complex and interconnected nature of health systems and malaria transmission dynamics. Participants explore how interventions, behaviours, environmental factors, and health system components interact, and how these interactions influence programme outcomes and decision-making.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   Understand what systems thinking is, and how it applies to malaria programmes
+
+-   Identify how interactions within complex systems influence disease outcomes
+
+-   Explain how systems thinking can improve modelling and decision-making for malaria
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Complex adaptive systems
+
+-   Causal loop diagrams
+
+-   Interconnections and feedback loops
+
+-   Non-linear effects and unintended consequences
+
+-   Systems mapping
+
+-   Multi-sectoral influences on malaria outcomes
+:::
+
+## Delivery Plan
+
+This module consists of one session, comprised of an introductory lecture and a group exercise. To allow for sufficient engagement with groups reporting back, 2.5-3 hours for the session is suggested.
+
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Topic                                 | Description                                                                                                             | Duration  | Format                                 |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Introduction to Systems Thinking      | Understanding complexity in health systems                                                                              | 30 min    | Presentation                           |
+|                                       |                                                                                                                         |           |                                        |
+|                                       | Key aspects of systems thinking                                                                                         |           |                                        |
+|                                       |                                                                                                                         |           |                                        |
+|                                       | Introduction to causal loop diagrams                                                                                    |           |                                        |
+|                                       |                                                                                                                         |           |                                        |
+|                                       | Why systems thinking matters for malaria control                                                                        |           |                                        |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Systems Mapping Exercise: Breakout    | Participants construct a causal loop diagram, focusing on an element of the malaria system (see exercise details below) | 60-75 min | Small group break out exercise         |
+|                                       |                                                                                                                         |           |                                        |
+|                                       | Identify relationships, bottlenecks, and feedback loops                                                                 |           |                                        |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Systems Mapping Exercise: Report Back | Groups present their causal loop diagrams with discussion on how the groups' elements interact                          | 45–75 min | Report back & plenary discussion       |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Reflection and Wrap-Up                | Key insights and applications to participants’ work                                                                     | 15 min    | Presentation or facilitator reflection |
+|                                       |                                                                                                                         |           |                                        |
+|                                       | How systems thinking informs model design and interpretation                                                            |           |                                        |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+
+### Practical Exercise
+
+**Exercise Title:** Mapping the Malaria System
+
+**Instructions:\
+**In groups, participants develop a causal loop diagram showing factors influencing malaria burden in a selected setting. Groups are comprised of 3-5 fellows, each allocated to focus on one of the following system elements:
+
+-   Access to care
+
+-   Data surveillance systems
+
+-   Drug resistance and availability of drugs
+
+-   Acceptance of interventions
+
+-   Climate change and environmental factors
+
+-   Funding availability
+
+The exercise can be done using software or analog with poster paper, markers, and sticky notes.
+
+Groups present their causal loop diagrams and identify how the different system elements intersect and interact across the groups. During the faciliated discussion, there is an opportunity to consider where modelling could support decision-making within the system.
+
+### Facilitator Guidance
+
+-   Draw connections between programme operations, funding, behaviour, and outcomes
+
+-   Support participants in visualising relationships and dependencies
+
+-   Reinforce that systems thinking helps frame better modelling questions
+
+::: {.callout-caution appearance="default"}
+## Practical reflections from delivering the inaugural cohort
+
+Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
+
+Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
+:::
+
+## Materials and Resources
+
+-   Introductory slide deck
+
+-   Example causal loop diagrams
+
+-   Flipcharts or digital collaboration tools
+
+### 

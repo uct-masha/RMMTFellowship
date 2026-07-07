@@ -1,0 +1,41 @@
+---
+title: "Capstone Projects"
+---
+
+## Overview
+
+A central component of the RMMT Fellowship is the Capstone Project, through which fellows apply the knowledge and skills acquired during the programme to real-world policy challenges. Working collaboratively in country teams, the aim of the Capstone Projects is for fellows to identify and develop modelling-focused projects addressing high-priority malaria policy and implementation questions relevant to their national contexts.
+
+Each Capstone Project should focus on a high-impact, policy-relevant question aligned with national malaria priorities. The process emphasises the practical application of modelling to inform intervention design, optimise resource allocation, and accelerate progress toward malaria control and elimination goals.
+
+Collectively, the Capstone Projects demonstrate the value of embedding modelling within decision-making processes. They highlight how locally led, policy-driven analyses can generate actionable insights to guide programme planning, improve allocative efficiency, and support evidence-based advocacy for sustained investment in malaria programmes.
+
+## Delivery Approach
+
+### Project Structure
+
+Througout the course of the Fellowship, country teams develop structured proposals that integrated epidemiological and economic perspectives, including: a clearly defined policy problem, key modelling questions, required data inputs, priority outcomes, and scenario-based analyses of alternative intervention strategies. Proposals also incorporate economic evaluations to assess affordability and cost-effectiveness, alongside implementation considerations through Strengths, Weaknesses, Opportunities, and Threats (SWOT) analyses and defined next steps for policy uptake.
+
+![](/images/capstone-structure.png){fig-align="center"}
+
+### Capstone Presentations
+
+During the final week of the Fellowship, country teams present their Capstone Project proposals to the full cohort as well as to invited representatives from Ministries of Health and National Malaria Programmes (NMPs), who may join virtually or in person. These presentations serve as a critical platform for fellows to demonstrate the knowledge and skills gained throughout the programme, particularly their ability to translate modelling concepts into clear, policy-relevant recommendations. Importantly, engagement with key national stakeholders helps to validate the relevance of the proposed analyses, build buy-in, and highlight the practical value of modelling in informing programme decisions. This interaction is also an opportunity to lay the groundwork for continued collaboration and positioned the projects as a foundation for future modelling work within NMPs.
+
+### Group Work Sessions
+
+Throughout the Fellowship, we recommend allocating time for fellows to work in their Capstone Project groups as well as opportunities to present and receive feedback at key stages in the project development. This can be done through a mix of sessions during the in-person blocks (especially Block 2) and virtual sessions. Presenting interim work allows for constructive feedback on the application of the Fellowship topics and shared learning across the cohort.
+
+## Materials and Resources
+
+-   Introductory slides
+
+-   Capstone presentation templates
+
+## Inaugural Cohort Capstone Projects
+
+The inaugural RMMT Fellowship cohort had 21 fellows from 7 countries. Each team identified a priority policy question and developed a modelling proposal to address it. The image below shows the topics selected by each country team.
+
+![](/images/capstone-projects.png){fig-align="center"}
+
+By the end of the Fellowship, country teams had developed a pipeline of modelling-informed policy questions positioned for further technical development and implementation. This established a strong foundation for continued collaboration between national programmes, modellers, and partners, and contributes to building sustainable in-country capacity to use data and modelling to drive impact at scale.

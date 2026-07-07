@@ -1,0 +1,41 @@
+---
+title: "Abbreviations and Acronyms"
+---
+
+This section lists the abbreviations and acronyms used throughout the Fellowship curriculum. It is intended as a quick reference for fellows, facilitators, and partners engaging with the RMMT materials.
+
++--------------+----------------------------------------------------+
+| Abbreviation | Full Term                                          |
++--------------+----------------------------------------------------+
+| GF           | Gates Foundation                                   |
++--------------+----------------------------------------------------+
+| CHAI         | Clinton Health Access Initiative                   |
++--------------+----------------------------------------------------+
+| E8           | Malaria Elimination 8 Initiative                   |
++--------------+----------------------------------------------------+
+| IRS          | Indoor residual spraying                           |
++--------------+----------------------------------------------------+
+| ITN          | Insecticide-treated bed net                        |
++--------------+----------------------------------------------------+
+| MASHA        | Modelling and Simulation Hub, Africa               |
++--------------+----------------------------------------------------+
+| MMALA        | Malaria Modelling and Analytics: Leaders in Africa |
++--------------+----------------------------------------------------+
+| NMP          | National Malaria Programme                         |
++--------------+----------------------------------------------------+
+| NTD          | Neglected tropical diseases                        |
++--------------+----------------------------------------------------+
+| RMMT         | Regional Malaria Modelling Translational           |
++--------------+----------------------------------------------------+
+| SADC         | Southern African Development Community             |
++--------------+----------------------------------------------------+
+| SSA          | Sub-Saharan Africa                                 |
++--------------+----------------------------------------------------+
+| SWOT         | Strengths, weaknesses, opportunities, and threats  |
++--------------+----------------------------------------------------+
+| UCT          | University of Cape Town                            |
++--------------+----------------------------------------------------+
+| WHO          | World Health Organisation                          |
++--------------+----------------------------------------------------+
+
+

@@ -1,0 +1,108 @@
+---
+title: "Welcome and Orientation"
+---
+
+## Overview
+
+The Welcome and Orientation module introduces participants to the RMMT Fellowship, its objectives, structure, and learning approach. The module is designed to establish a collaborative learning environment, align expectations, and provide participants with a clear understanding of the Fellowship journey. It also creates an opportunity for fellows to build relationships, share professional backgrounds and interests, and begin engaging with the broader themes of modelling, policy, and regional collaboration.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   Articulate the objectives, structure, and expectations of the Fellowship
+
+-   Identify the fellows, facilitators, and partners involved in the programme
+
+-   Understand how the participants will engage, collaborate, and apply learning throughout the Fellowship
+:::
+
+## Delivery Plan
+
+This orientation module is expected to take half a day, recommended for the morning of the first in-person day.
+
++---------------------------------------+------------------------------------------------------------------+----------+---------------------------+
+| Topic                                 | Description                                                      | Duration | Format                    |
++---------------------------------------+------------------------------------------------------------------+----------+---------------------------+
+| Welcome Address and Opening Remarks   | Official welcome from programme leadership and partners          | 40 min   | Presentation              |
+|                                       |                                                                  |          |                           |
+|                                       | Introduction to the faciliators                                  |          |                           |
+|                                       |                                                                  |          |                           |
+|                                       | Strategic context and rationale for the Fellowship               |          |                           |
+|                                       |                                                                  |          |                           |
+|                                       | Importance of modelling for policy and programme decision-making |          |                           |
++---------------------------------------+------------------------------------------------------------------+----------+---------------------------+
+| Fellowship Overview                   | Programme structure and timeline                                 | 30 min   | Presentation              |
+|                                       |                                                                  |          |                           |
+|                                       | Curriculum overview and learning journey                         |          |                           |
+|                                       |                                                                  |          |                           |
+|                                       | Capstone projects and expected outputs                           |          |                           |
+|                                       |                                                                  |          |                           |
+|                                       | Setting intentions and goals for the Fellowship                  |          |                           |
+|                                       |                                                                  |          |                           |
+|                                       | Introduction to peer learning and collaboration expectations     |          |                           |
++---------------------------------------+------------------------------------------------------------------+----------+---------------------------+
+| Fellow's Reflections and Expectations | Ice-breaker activity                                             | 20 min   | Interactive session       |
+|                                       |                                                                  |          |                           |
+|                                       | Monitoring, evaluation, and participation expectations           |          |                           |
++---------------------------------------+------------------------------------------------------------------+----------+---------------------------+
+| Fellow Introductions                  | Each fellow presents a short introduction (1-2 slides) covering: | 90 min\* | Participant presentations |
+|                                       |                                                                  |          |                           |
+|                                       | -   Professional background and current role                     |          |                           |
+|                                       |                                                                  |          |                           |
+|                                       | -   Country/programme context                                    |          |                           |
+|                                       |                                                                  |          |                           |
+|                                       | -   Prior experience/interactions with modelling                 |          |                           |
+|                                       |                                                                  |          |                           |
+|                                       | -   Interests or expectations for the Fellowship                 |          |                           |
++---------------------------------------+------------------------------------------------------------------+----------+---------------------------+
+
+*\*Note: This session may need longer depending on the number of fellows. Give 3-5min per fellow.*
+
+## Practical Exercise
+
+**Exercise Title:** Fellow Introductions
+
+**Instructions:\
+**Using the template provided, each fellow prepares a brief presentation (1-2 slides) covering:
+
+1.  Their professional background
+
+2.  Their current role and key responsibilities within their programme or institution
+
+3.  Their prior experience/interactions with modelling (if any)
+
+4.  What they hope to gain from the Fellowship
+
+Participants present to the group followed by brief discussion and questions. Allow 3-5min per fellow.
+
+## Facilitator Guidance
+
+-   Create an inclusive and welcoming environment from the outset
+
+-   Encourage participation and peer interaction early in the programme
+
+-   Emphasise that the Fellowship is collaborative and practice-oriented
+
+-   Use introductions to identify common themes, interests, and expertise across the cohort
+
+-   Reinforce expectations around engagement, respect, and shared learning
+
+::: {.callout-caution appearance="default"}
+## Practical reflections from the team
+
+We used the interactive session to discuss how fellow's would like to collaborate and communicate throughout the Fellowship. Although we sent all formal communications via email, fellows were keen to have a platform for informal engagement. We set up a WhatsApp group, which worked really well for staying in touch throughout the fellowship and building a vibrant community. This was an avenue for quick updates, sharing photos, fellows to ask questions etc. The group has remained active beyond the duration of the fellowship.
+:::
+
+## Materials and Resources
+
+-   Fellowship agenda and calendar
+
+-   Orientation slide deck
+
+-   Participant handbook
+
+-   Fellow introduction template
+
+-   Contact list and collaboration platforms

@@ -1,0 +1,15 @@
+---
+title: "Acknowledgements"
+---
+
+The Regional Malaria Modelling Translational (RMMT) Fellowship was made possible through the generous support of the Gates Foundation, whose commitment to strengthening data-driven decision-making and building sustainable capacity in Africa underpins this work.
+
+We acknowledge the leadership and collaboration of our implementing partners—Modelling and Simulation Hub, Africa (MASHA), University of Cape Town; SADC Malaria Elimination 8 Initiative (E8); Clinton Health Access Initiative (CHAI) South Africa Office—for their role in the design and delivery of the Fellowship.
+
+We extend our appreciation to the Ministries of Health and National Malaria Control Programmes in Angola, Eswatini, Ghana, Mozambique, Namibia, South Africa, and Zambia, for their engagement and support, and for enabling fellows to participate and apply their learning within national programmes.
+
+We recognise the contributions of the RMMT Fellows, whose commitment and engagement were central to the success of the programme, as well as the MMALA PhD cohort, whose participation strengthened linkages between modelling expertise and programme needs.
+
+We also thank the faculty, facilitators, and guest speakers, for their valuable contributions, and the programme coordination team, for their support in delivering the Fellowship.
+
+![](/images/logo-block.png){fig-align="center"}

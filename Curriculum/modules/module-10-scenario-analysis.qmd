@@ -1,0 +1,145 @@
+---
+title: "10. Scenario Analysis"
+---
+
+## Overview
+
+This module introduces participants to scenario analysis as a tool for exploring the potential implications of different intervention, funding, or policy choices. Participants learn how scenarios are developed, compared, and interpreted to support strategic planning and decision-making under uncertainty.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+
+By the end of this module, participants should be able to:
+
+-   Understand scenario analysis and how it is used in modelling
+
+-   How do we design meaningful and realistic scenarios?
+
+-   How should scenario results be interpreted and compared?
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Baseline and alternative scenarios
+
+-   Comparing interventions and strategies
+
+-   Assumptions and uncertainty in scenarios
+
+-   Strategic planning and prioritisation
+
+-   Decision-making under uncertainty
+:::
+
+
+
+## Delivery Plan
+
+This module consists of...
+
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Topic                     | Description                                                    | Duration   | Format                         |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Why modelling matters in malaria programmes                    |            |                                |
+|                           |                                                                |            |                                |
+|                           | Examples of modelling informing policy decisions               |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Comparing model types and applications                         |            |                                |
+|                           |                                                                |            |                                |
+|                           | Strengths and limitations of different approaches              |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
+|                           |                                                                |            |                                |
+|                           | Small groups discuss whether modelling would be useful and why |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
+|                           |                                                                |            |                                |
+|                           | Challenges participants have encountered in using evidence     |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
+|                           |                                                                |            |                                |
+|                           | Common misconceptions about modelling                          |            |                                |
+|                           |                                                                |            |                                |
+|                           | Where to next                                                  |            |                                |
++---------------------------+----------------------------------------------------------------+------------+--------------------------------+
+
+Part 1: Introduction to Scenario Analysis (30 min)
+
+-   Purpose and value of scenarios
+
+-   Examples from malaria programmes
+
+Part 2: Designing Scenarios (45 min)
+
+-   Defining assumptions and comparisons
+
+-   Ensuring realism and policy relevance
+
+Part 3: Practical Exercise (45–60 min)
+
+-   Participants develop and compare scenarios for a programme challenge
+
+-   Discuss expected outcomes and trade-offs
+
+Part 4: Group Discussion (30 min)
+
+-   Interpreting results and uncertainty
+
+-   Using scenarios to inform decisions
+
+Part 5: Reflection and Wrap-Up (15 min)
+
+-   Key considerations for scenario design and use
+
+
+
+### Practical Exercise
+
+Exercise Title: Comparing Intervention Scenarios
+
+**Instructions:\
+** Participants work in groups to:
+
+1.  Define a baseline scenario
+
+2.  Develop 2–3 alternative intervention or funding scenarios
+
+3.  Identify assumptions and expected outcomes
+
+4.  Discuss how results would influence decision-making
+
+Groups present and compare findings.
+
+### Facilitator Guidance
+
+-   Encourage realistic and decision-focused scenarios
+
+-   Reinforce that scenarios are exploratory, not predictions
+
+-   Highlight the importance of communicating assumptions clearly
+
+-   Use examples linked to resource allocation or intervention planning
+
+::: {.callout-caution appearance="default"}
+## What we learned along the way
+
+Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
+
+Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
+:::
+
+## Materials and Resources
+
+-   Scenario planning templates
+
+-   Malaria programme case studies
+
+-   Facilitator slides
+
+-   Group worksheets
+

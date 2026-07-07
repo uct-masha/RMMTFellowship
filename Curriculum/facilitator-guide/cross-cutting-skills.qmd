@@ -1,0 +1,181 @@
+---
+title: "Cross-Cutting Skills"
+---
+
+
+## Communicating with Policymakers
+
+Effective communication is central to policy-focused modelling. Modelling outputs rarely speak for themselves; they need to be translated into clear, relevant, and actionable messages that respond to the needs of decision-makers. Fellows should be encouraged to think not only about what the model shows, but also about what the intended audience needs to understand in order to use the evidence appropriately.
+
+Policymakers and programme leaders often work under time pressure, with competing priorities and incomplete information. Communication should therefore focus on the decision being informed, the main findings, the level of confidence in those findings, and the implications for policy or programme action. Technical detail remains important, but it should be presented in a way that supports understanding rather than overwhelming the audience.
+
+::: {.callout-note appearance="default"}
+## Communication Principle
+
+Policy communication should begin with the decision context, not the model. The most important question is not “What did the model produce?” but “What decision can this evidence help inform?”
+:::
+
+When communicating modelling results, fellows should aim to make messages concise, transparent, and relevant. This includes explaining assumptions, uncertainty, and limitations in accessible language. Rather than avoiding uncertainty, fellows should frame it as part of responsible decision-making.
+
++-------------------------------+------------------------------------------------------------+
+| Communication Focus           | Guiding Question                                           |
++-------------------------------+------------------------------------------------------------+
+| Decision relevance            | What policy or programme decision does this evidence       |
+|                               | support?                                                   |
++-------------------------------+------------------------------------------------------------+
+| Main finding                  | What is the key result or message decision-makers need to   |
+|                               | understand?                                                |
++-------------------------------+------------------------------------------------------------+
+| Assumptions                   | What assumptions shape the interpretation of the results?   |
++-------------------------------+------------------------------------------------------------+
+| Uncertainty                   | How confident should decision-makers be in the findings?    |
++-------------------------------+------------------------------------------------------------+
+| Implications                  | What are the practical options, risks, or trade-offs?       |
++-------------------------------+------------------------------------------------------------+
+| Action                        | What should be considered next?                             |
++-------------------------------+------------------------------------------------------------+
+
+A useful approach is to structure communication around a simple storyline: the problem, the evidence, the implications, and the recommended next steps. Visualisations, policy briefs, slide decks, and verbal presentations should all be designed with this storyline in mind.
+
+::: {.callout-tip appearance="default"}
+## Facilitator Prompt
+
+Ask fellows to summarise a modelling result in three ways: first for a technical modeller, then for a malaria programme manager, and finally for a senior policymaker with limited time. This helps fellows practise adapting language, emphasis, and level of detail.
+:::
+
+---
+
+## Bridging Modelling and Decision-Making
+
+Policy-focused modelling sits at the interface between technical analysis and real-world decision-making. Bridging these two domains requires more than technical accuracy. It requires a clear understanding of programme priorities, operational constraints, stakeholder needs, timelines, and the decisions that modelling evidence is intended to support.
+
+Fellows should be encouraged to view modelling as a collaborative process. A model is most useful when the policy question is clearly defined, when assumptions are discussed openly, and when outputs are interpreted with programme context in mind. This means engaging decision-makers and technical partners early, rather than presenting modelling results only at the end of an analysis.
+
+::: {.callout-note appearance="default"}
+## Bridging Principle
+
+Modelling is most policy-relevant when decision-makers and technical experts work together to define the question, interpret the results, and identify feasible actions.
+:::
+
+The bridge between modelling and decision-making can be strengthened by focusing on the full evidence-use pathway: from question formulation to analysis, interpretation, communication, and action. Each step requires dialogue between those producing evidence and those responsible for using it.
+
++-------------------------------+------------------------------------------------------------+
+| Step                          | Policy-Focused Consideration                               |
++-------------------------------+------------------------------------------------------------+
+| Define the question           | Is the modelling question linked to a real decision or      |
+|                               | programme priority?                                        |
++-------------------------------+------------------------------------------------------------+
+| Clarify assumptions           | Are key assumptions transparent and understandable to       |
+|                               | non-technical stakeholders?                                |
++-------------------------------+------------------------------------------------------------+
+| Generate outputs              | Are outputs presented in formats that support comparison    |
+|                               | and interpretation?                                        |
++-------------------------------+------------------------------------------------------------+
+| Interpret findings            | What do the findings mean in light of programme realities,  |
+|                               | constraints, and uncertainty?                              |
++-------------------------------+------------------------------------------------------------+
+| Communicate evidence          | Are results communicated clearly for the intended audience? |
++-------------------------------+------------------------------------------------------------+
+| Support action                | What decisions, discussions, or next steps could the        |
+|                               | evidence inform?                                           |
++-------------------------------+------------------------------------------------------------+
+
+Fellows should also consider timing. Even high-quality modelling may have limited influence if results are delivered after key planning or budgeting decisions have already been made. Policy-focused modelling therefore requires awareness of strategic planning cycles, funding windows, review meetings, and other decision points.
+
+::: {.callout-important appearance="default"}
+## Timing Matters
+
+For modelling evidence to influence policy, it must be available when decisions are being discussed. Fellows should consider policy and programme timelines early in the modelling process.
+:::
+
+---
+
+## Facilitating Technical–Policy Dialogue
+
+Technical–policy dialogue is the process of bringing together modelling experts, programme teams, policymakers, and other stakeholders to jointly understand evidence and its implications. Effective dialogue helps ensure that modelling questions are relevant, outputs are interpreted appropriately, and recommendations are grounded in programme realities.
+
+Facilitators play an important role in creating a space where different types of expertise are valued. Modellers may bring knowledge of methods, assumptions, data, and uncertainty, while programme teams and policymakers bring knowledge of implementation, feasibility, political context, resource constraints, and strategic priorities. Productive dialogue depends on recognising that all of these perspectives are necessary.
+
+::: {.callout-note appearance="default"}
+## Dialogue Principle
+
+Technical–policy dialogue is not simply about explaining models to policymakers. It is about creating shared understanding between people with different expertise, responsibilities, and decision-making needs.
+:::
+
+Fellows should learn to facilitate dialogue by asking questions that connect technical outputs to programme decisions. These questions can help move discussions from abstract model results to practical interpretation and action.
+
++------------------------------------+------------------------------------------------------------+
+| Technical Framing                  | Policy-Focused Reframing                                   |
++------------------------------------+------------------------------------------------------------+
+| What does the model estimate?      | What decision could this estimate help inform?             |
++------------------------------------+------------------------------------------------------------+
+| What assumptions were used?        | Which assumptions are most important for decision-makers    |
+|                                    | to understand?                                             |
++------------------------------------+------------------------------------------------------------+
+| How uncertain are the results?     | What risks or trade-offs should be considered?             |
++------------------------------------+------------------------------------------------------------+
+| Which scenario performs best?      | Which option is most feasible, affordable, and aligned with |
+|                                    | programme priorities?                                      |
++------------------------------------+------------------------------------------------------------+
+| What additional data are needed?   | What decisions can be made now, and what evidence should    |
+|                                    | be strengthened over time?                                 |
++------------------------------------+------------------------------------------------------------+
+
+Good facilitation also involves managing power dynamics and participation. Some stakeholders may be more confident with technical language, while others may be more familiar with policy or implementation realities. Facilitators should ensure that no single perspective dominates and that technical uncertainty does not prevent constructive discussion.
+
+::: {.callout-tip appearance="default"}
+## Facilitator Prompt
+
+When discussion becomes too technical, ask: “What does this mean for a programme decision?” When discussion becomes too broad, ask: “What evidence would help clarify this choice?”
+:::
+
+Technical–policy dialogue should end with synthesis. Participants should be clear on what was discussed, what evidence suggests, what uncertainties remain, and what actions or next steps are needed.
+
+---
+
+## Using Evidence for Advocacy and Resource Mobilisation
+
+Modelling evidence can play an important role in advocacy and resource mobilisation by helping programmes describe the potential consequences of action, inaction, or alternative investment choices. When used appropriately, modelling can support a clearer case for funding, prioritisation, and strategic decision-making.
+
+Advocacy-focused use of modelling should remain transparent and responsible. The aim is not to overstate certainty or present modelling as proof of a single correct decision. Instead, modelling evidence should help stakeholders understand possible futures, compare options, and assess the likely implications of different choices.
+
+::: {.callout-note appearance="default"}
+## Advocacy Principle
+
+Modelling evidence is most useful for advocacy when it connects investment choices to plausible programme outcomes, while clearly explaining assumptions, uncertainty, and limitations.
+:::
+
+Fellows should be encouraged to identify the audience and purpose of advocacy before selecting messages or outputs. A Ministry of Health audience may need evidence on programme priorities and feasibility, while a financing partner may need information on expected impact, value for money, or risks of underinvestment.
+
++-------------------------------+------------------------------------------------------------+
+| Advocacy Question             | How Modelling Evidence Can Help                            |
++-------------------------------+------------------------------------------------------------+
+| Why is action needed?         | Show projected disease burden, risks, or consequences of    |
+|                               | delayed action                                             |
++-------------------------------+------------------------------------------------------------+
+| Which option should be        | Compare intervention scenarios, target populations, or      |
+| prioritised?                  | implementation strategies                                  |
++-------------------------------+------------------------------------------------------------+
+| What is the expected impact?  | Estimate potential cases, deaths, infections, or other      |
+|                               | outcomes averted                                           |
++-------------------------------+------------------------------------------------------------+
+| What resources are required?  | Link intervention options to costs, feasibility, and        |
+|                               | expected benefits                                          |
++-------------------------------+------------------------------------------------------------+
+| What are the trade-offs?      | Compare alternative uses of limited resources               |
++-------------------------------+------------------------------------------------------------+
+| What is the risk of inaction? | Illustrate potential future scenarios if current gaps       |
+|                               | remain unaddressed                                         |
++-------------------------------+------------------------------------------------------------+
+
+Evidence used for advocacy should be tailored to the audience. This may involve preparing a short policy brief, a focused slide deck, a one-page summary, or a set of figures that clearly compare scenarios. Messages should be simple enough to support decision-making, while retaining enough transparency to avoid misinterpretation.
+
+::: {.callout-important appearance="default"}
+## Responsible Advocacy
+
+Advocacy messages should not hide uncertainty. Clear communication of uncertainty can strengthen credibility by showing that recommendations are based on careful interpretation rather than overconfidence.
+:::
+
+Resource mobilisation also benefits from combining modelling evidence with other forms of evidence. Cost data, implementation experience, equity considerations, feasibility assessments, and stakeholder priorities should all be considered alongside modelled estimates of impact.
+
+By strengthening these cross-cutting skills, fellows will be better equipped to support the responsible use of modelling evidence in malaria policy, planning, advocacy, and investment discussions.

@@ -1,0 +1,102 @@
+---
+title: "4. Engaging with Modelling"
+---
+
+## Overview
+
+This module explores the factors that influence engagement with modelling within policy and programme environments. Participants examine common barriers to the uptake of modelling, including technical literacy, trust, communication gaps, competing priorities, and funding constraints. The session also highlights enabling factors that support sustained engagement with modelling and evidence-informed decision-making.
+
+::: {.callout-tip appearance="default"}
+## Learning Objectives
+By the end of this module, participants should be able to:
+
+-   Identify the factors that influence engagement with modelling in policy and programme settings
+
+-   Understand the barriers that limit the uptake and use of modelling evidence
+
+-   Articulate how funding and partnerships can support sustainable modelling efforts
+:::
+
+::: {.callout-note appearance="default"}
+## Key Concepts
+
+-   Modelling literacy and trust
+
+-   Barriers to evidence uptake
+
+-   Institutional readiness and capacity
+
+-   Stakeholder engagement
+
+-   Funding and sustainability for modelling initiatives
+:::
+
+## Delivery Plan
+
+This module consists of a group exercise with feedback and discussion (2 hours).
+
++-----------------------------+---------------------------------------------------------------------------+------------+--------------------------------+
+| Topic                       | Description                                                               | Duration   | Format                         |
++-----------------------------+---------------------------------------------------------------------------+------------+--------------------------------+
+| Introduction to the Session | Overview of the group activity                                            | 5 min      | Presentation                   |
++-----------------------------+---------------------------------------------------------------------------+------------+--------------------------------+
+| Group Exercise              | Participants identify barriers and enabling factors within their contexts | 50 min     | Small group break out exercise |
+|                             |                                                                           |            |                                |
+|                             | Develop strategies to improve engagement and uptake                       |            |                                |
++-----------------------------+---------------------------------------------------------------------------+------------+--------------------------------+
+| Group Discussion            | Groups report back on their discussion                                    | 50 min     | Group discussion (plenary)     |
+|                             |                                                                           |            |                                |
+|                             | Facilitated discussion on emerging themes across the group                |            |                                |
++-----------------------------+---------------------------------------------------------------------------+------------+--------------------------------+
+| Reflection and Wrap-Up      | Key takeaways from discussion                                             | 15 min     | Presentation                   |
+|                             |                                                                           |            |                                |
+|                             | Why modelling is underused in some contexts                               |            |                                |
+|                             |                                                                           |            |                                |
+|                             | Perceptions and expectations around modelling                             |            |                                |
+|                             |                                                                           |            |                                |
+|                             | Potential actions to strengthen engagement with modelling                 |            |                                |
++-----------------------------+---------------------------------------------------------------------------+------------+--------------------------------+
+
+### Practical Exercise
+
+**Exercise Title:** Mapping Barriers and Opportunities
+
+**Instructions:**
+
+Fellows break away into their country groups to discussion barriers, opportunities, and preferred approaches to engaging with modelling in their countries. This exercise is guided by a worksheet with a set of prompting questions.
+
+Questions for discussion cover the following topics:
+
+-   Currently perception of the value in modelling
+
+-   Barriers to the use of modelling to support decision-making in your country (e.g. data access, expertise, trust, funding, time)
+
+-   Preferred partners to conduct the modelling work
+
+-   Funding opportunities for modelling
+
+-   Modes of engagement and communication
+
+Each groups presents key points from their discussion followed by a facilitated discussion of emerging themes.
+
+### Facilitator Guidance
+
+-   Encourage honest discussion around institutional and operational realities
+
+-   Highlight that barriers are often organisational, not only technical
+
+-   Draw connections between engagement, trust, and communication
+
+-   Use practical examples from participants’ contexts where possible
+
+::: {.callout-caution appearance="default"}
+## **Practical reflections from delivering the inaugural cohort**
+
+For our group work, we alternated between breaking fellows into their own country groups or mixing countries. For this exercise, we suggest grouping fellows by country so they can have a deeper discussion applied to their own context. Country experiences are then shared and contrasted during the report back and plenary discussion session.
+:::
+
+## Materials and Resources
+
+-   Facilitator slides
+
+-   Group discussion worksheets
