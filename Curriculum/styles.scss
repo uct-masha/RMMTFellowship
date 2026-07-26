@@ -22,6 +22,8 @@ color: $body-text;
 font-size: 1.03rem;
 line-height: 1.65;
 font-weight: 400;
+margin-top: 1.2rem;
+margin-bottom: 1.8rem;
 }
 
 p,
@@ -168,8 +170,8 @@ Callouts
 border-left-width: 4px;
 border-radius: 10px;
 
-margin-top: 1rem;
-margin-bottom: 1rem;
+margin-top: 1.8rem;
+margin-bottom: 1.8rem;
 }
 
 .callout-title {
@@ -198,10 +200,18 @@ border-left-color: #d97706;
 
 table {
   width: 100%;
-  margin-top: 1.2rem;
-  margin-bottom: 1rem;
   border-collapse: collapse;
   font-size: 0.97rem;
+}
+
+/* Spacing around document tables only */
+
+main.content table,
+main.content .table-responsive,
+main.content .cell-output-display,
+main.content div[id^="tbl-"] {
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
 }
 
 /* Make body text normal */
@@ -233,7 +243,7 @@ table td {
 /* Remove extra paragraph spacing inside cells */
 table p {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 0.5rem;
 }
 
 /* First column bold */

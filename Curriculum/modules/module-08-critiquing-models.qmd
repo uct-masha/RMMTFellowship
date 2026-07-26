@@ -34,7 +34,7 @@ By the end of this module, participants should be able to:
 
 ## Delivery Plan
 
-This module consists of...
+This module consists of a single 3-hour session, best delivered during the second in-person block.
 
 +-------------------------------------------+------------------------------------------------------------------+------------+--------------------------------+
 | Topic                                     | Description                                                      | Duration   | Format                         |

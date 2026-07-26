@@ -91,14 +91,6 @@ Exercise Title: Improving a Visualisation
 
 -   Discuss both design and interpretation challenges
 
-::: {.callout-caution appearance="default"}
-## What we learned along the way
-
-Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
-
-Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
-:::
-
 ## Materials and Resources
 
 -   Example charts and dashboards

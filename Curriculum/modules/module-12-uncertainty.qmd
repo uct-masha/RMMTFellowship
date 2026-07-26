@@ -11,11 +11,12 @@ This module explores the role of uncertainty and sensitivity analysis in modelli
 
 By the end of this module, participants should be able to:
 
--   What types of uncertainty exist in modelling?
+-   Explain what types of uncertainty exist in modelling
 
--   How is sensitivity analysis used to assess the robustness of results?
+-   Understand how sensitivity analysis is used to assess the robustness of results
 
--   How can uncertainty be communicated effectively to non-technical audiences?
+-   Demonstrate how uncertainty can be communicated effectively to non-technical audiences
+
 :::
 
 ::: {.callout-note appearance="default"}
@@ -121,14 +122,6 @@ Groups compare findings and communication approaches.
 -   Use practical examples to demonstrate sensitivity analysis
 
 -   Focus on implications for decision-making and communication
-
-::: {.callout-caution appearance="default"}
-## What we learned along the way
-
-Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
-
-Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
-:::
 
 
 

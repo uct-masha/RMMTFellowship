@@ -6,7 +6,7 @@ title: "MEL Framework"
 
 The Monitoring and Evaluation (M&E) approach for the RMMT Fellowship is designed to assess how fellows’ competencies, confidence, and perceptions change over the course of the programme. Rather than treating evaluation as a one-off reporting activity, the Fellowship uses M&E as a learning mechanism: to understand participant progress, identify areas where additional support is needed, and inform improvements to future delivery.
 
-The M&E framework is structured around three assessment points: baseline, midline, and endline. Each phase serves a distinct purpose. The baseline assessment captures fellows’ starting points, expectations, and initial self-assessed competencies. The midline assessment provides an opportunity to identify emerging strengths, challenges, and areas requiring adaptation while the Fellowship is still underway. The endline assessment captures perceived learning gains, confidence, satisfaction, and reflections on how fellows expect to apply their learning.
+The M&E framework is structured around three assessment points: baseline, midline, and endline. Each phase serves a distinct purpose. 
 
 
 +----------------------+------------------------------------------------------------+
@@ -21,6 +21,18 @@ The M&E framework is structured around three assessment points: baseline, midlin
 | Endline              | Assess perceived learning gains, satisfaction, and intended |
 |                      | application of Fellowship learning                          |
 +----------------------+------------------------------------------------------------+
+
+The **baseline survey** should be administered before or at the start of the Fellowship. It establishes fellows’ initial confidence, prior exposure to modelling, expectations for the programme, and perceived learning needs. This information can help facilitators understand the cohort and adapt early sessions to participants’ backgrounds.
+
+The **midline survey** should be administered approximately halfway through the Fellowship. Its primary purpose is formative. It should help facilitators understand what is working well, which topics require additional explanation, and whether fellows feel supported in applying learning to their capstone projects. Midline findings should be reviewed quickly so that practical adjustments can be made during the Fellowship.
+
+The **endline survey** should be administered at the end of the Fellowship. It assesses perceived changes in competency, satisfaction with programme delivery, and fellows’ intentions to use modelling evidence in their work. It should also capture reflections on the Fellowship structure, module sequencing, capstone process, and suggestions for future cohorts.
+
+::: {.callout-note appearance="default"}
+## Formative Use of Feedback
+
+The midline survey is especially important because it allows the delivery team to respond while the Fellowship is still underway. Findings should be reviewed promptly and translated into practical adjustments where possible.
+:::
 
 A mixed-methods approach is used, combining quantitative competency assessment with qualitative feedback. Quantitative data are collected through a 14-item Likert scale covering key competency areas. Qualitative data are collected through open-ended questions and interactive feedback activities, allowing fellows to explain their experiences, identify barriers, and suggest improvements. Together, these methods identify how the Fellowship can better support fellows to apply modelling evidence in real programme and policy contexts.
 
@@ -42,29 +54,6 @@ The open-ended questions vary across surveys. At baseline, they focus on expecta
 ## Interpreting Competency Scores
 
 The competency assessment is based on self-reported confidence and perceived ability. Scores should therefore be interpreted as indicators of perceived progress rather than as direct tests of technical proficiency.
-:::
-
-## Survey Instruments: Baseline, Midline, and Endline
-
-The three survey instruments are designed to capture different stages of the Fellowship learning journey. While the core competency questions remain consistent across the surveys, the open-ended questions should be tailored to the purpose of each evaluation point.
-
-|  |  |  |
-|------------------|------------------|-----------------------------------|
-| Survey | Timing | Key Focus |
-| Baseline | Start of Fellowship | Expectations, prior experience, initial confidence, and learning needs |
-| Midline | Midpoint of Fellowship | Progress, challenges, support needs, and opportunities to adapt delivery |
-| Endline | End of Fellowship | Learning gains, satisfaction, application, and recommendations for improvement |
-
-The **baseline survey** should be administered before or at the start of the Fellowship. It establishes fellows’ initial confidence, prior exposure to modelling, expectations for the programme, and perceived learning needs. This information can help facilitators understand the cohort and adapt early sessions to participants’ backgrounds.
-
-The **midline survey** should be administered approximately halfway through the Fellowship. Its primary purpose is formative. It should help facilitators understand what is working well, which topics require additional explanation, and whether fellows feel supported in applying learning to their capstone projects. Midline findings should be reviewed quickly so that practical adjustments can be made during the Fellowship.
-
-The **endline survey** should be administered at the end of the Fellowship. It assesses perceived changes in competency, satisfaction with programme delivery, and fellows’ intentions to use modelling evidence in their work. It should also capture reflections on the Fellowship structure, module sequencing, capstone process, and suggestions for future cohorts.
-
-::: {.callout-note appearance="default"}
-## Formative Use of Feedback
-
-The midline survey is especially important because it allows the delivery team to respond while the Fellowship is still underway. Findings should be reviewed promptly and translated into practical adjustments where possible.
 :::
 
 
@@ -93,12 +82,6 @@ Feedback should be treated as an active part of Fellowship delivery rather than 
 Midline feedback is particularly useful for real-time adaptation. For example, if fellows report low confidence in interpreting uncertainty, facilitators may choose to revisit this topic in a later session, provide an additional worked example, or create more time for discussion during capstone support sessions. If fellows report that exercises are too technical or not sufficiently connected to programme realities, facilitators can adjust examples, prompts, and group work to strengthen relevance.
 
 Endline feedback should be used to inform future cohorts. This may include revising module sequencing, strengthening pre-reading materials, adapting facilitation approaches, adjusting the balance between technical inputs and discussion, or improving support for capstone projects.
-
-::: {.callout-tip appearance="default"}
-## Closing the Feedback Loop
-
-Where possible, facilitators should communicate how participant feedback has been used. This reinforces trust, encourages honest engagement, and demonstrates that evaluation is part of a shared learning process.
-:::
 
 
 +----------------------+------------------------------------------------------------+

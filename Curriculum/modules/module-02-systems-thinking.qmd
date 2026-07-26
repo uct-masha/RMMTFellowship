@@ -38,27 +38,27 @@ By the end of this module, participants should be able to:
 
 This module consists of one session, comprised of an introductory lecture and a group exercise. To allow for sufficient engagement with groups reporting back, 2.5-3 hours for the session is suggested.
 
-+---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
-| Topic                                 | Description                                                                                                             | Duration  | Format                                 |
-+---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
-| Introduction to Systems Thinking      | Understanding complexity in health systems                                                                              | 30 min    | Presentation                           |
-|                                       |                                                                                                                         |           |                                        |
-|                                       | Key aspects of systems thinking                                                                                         |           |                                        |
-|                                       |                                                                                                                         |           |                                        |
-|                                       | Introduction to causal loop diagrams                                                                                    |           |                                        |
-|                                       |                                                                                                                         |           |                                        |
-|                                       | Why systems thinking matters for malaria control                                                                        |           |                                        |
-+---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
-| Systems Mapping Exercise: Breakout    | Participants construct a causal loop diagram, focusing on an element of the malaria system (see exercise details below) | 60-75 min | Small group break out exercise         |
-|                                       |                                                                                                                         |           |                                        |
-|                                       | Identify relationships, bottlenecks, and feedback loops                                                                 |           |                                        |
-+---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
-| Systems Mapping Exercise: Report Back | Groups present their causal loop diagrams with discussion on how the groups' elements interact                          | 45–75 min | Report back & plenary discussion       |
-+---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
-| Reflection and Wrap-Up                | Key insights and applications to participants’ work                                                                     | 15 min    | Presentation or facilitator reflection |
-|                                       |                                                                                                                         |           |                                        |
-|                                       | How systems thinking informs model design and interpretation                                                            |           |                                        |
-+---------------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
++----------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Topic                            | Description                                                                                                             | Duration  | Format                                 |
++----------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Introduction to Systems Thinking | Understanding complexity in health systems                                                                              | 30 min    | Presentation                           |
+|                                  |                                                                                                                         |           |                                        |
+|                                  | Key aspects of systems thinking                                                                                         |           |                                        |
+|                                  |                                                                                                                         |           |                                        |
+|                                  | Introduction to causal loop diagrams                                                                                    |           |                                        |
+|                                  |                                                                                                                         |           |                                        |
+|                                  | Why systems thinking matters for malaria control                                                                        |           |                                        |
++----------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Systems Mapping Exercise         | Participants construct a causal loop diagram, focusing on an element of the malaria system (see exercise details below) | 60-75 min | Small group break out exercise         |
+|                                  |                                                                                                                         |           |                                        |
+|                                  | Identify relationships, bottlenecks, and feedback loops                                                                 |           |                                        |
++----------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Systems Mapping Report Back      | Groups present their causal loop diagrams with discussion on how the groups' elements interact                          | 45–75 min | Report back & plenary discussion       |
++----------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
+| Reflection and Wrap-Up           | Key insights and applications to participants’ work                                                                     | 15 min    | Presentation or facilitator reflection |
+|                                  |                                                                                                                         |           |                                        |
+|                                  | How systems thinking informs model design and interpretation                                                            |           |                                        |
++----------------------------------+-------------------------------------------------------------------------------------------------------------------------+-----------+----------------------------------------+
 
 ### Practical Exercise
 
@@ -90,14 +90,6 @@ Groups present their causal loop diagrams and identify how the different system 
 -   Support participants in visualising relationships and dependencies
 
 -   Reinforce that systems thinking helps frame better modelling questions
-
-::: {.callout-caution appearance="default"}
-## Practical reflections from delivering the inaugural cohort
-
-Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
-
-Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
-:::
 
 ## Materials and Resources
 

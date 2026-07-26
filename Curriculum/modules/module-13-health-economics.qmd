@@ -11,11 +11,11 @@ This module introduces participants to the role of health economics and financin
 
 By the end of this module, participants should be able to:
 
--   How can economic evidence support policy and programme decisions?
+-   Explain how economic evidence can support policy and programme decisions
 
--   What information is needed to assess affordability, sustainability, and value for money?
+-   Identify what information is needed to assess affordability, sustainability, and value for money
 
--   How can modelling inform funding allocations and investment strategies?
+-   Understand how modelling can inform funding allocations and investment strategies
 :::
 
 ::: {.callout-note appearance="default"}
@@ -32,86 +32,63 @@ By the end of this module, participants should be able to:
 -   Economic interpretation of modelling outputs
 :::
 
-
-
 ## Delivery Plan
 
-This module consists of...
+This module consists of one 3-hour session, with extension of the practical activity into the Capstone Project group work time.
 
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Topic                     | Description                                                    | Duration   | Format                         |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Why modelling matters in malaria programmes                    |            |                                |
-|                           |                                                                |            |                                |
-|                           | Examples of modelling informing policy decisions               |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Comparing model types and applications                         |            |                                |
-|                           |                                                                |            |                                |
-|                           | Strengths and limitations of different approaches              |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
-|                           |                                                                |            |                                |
-|                           | Small groups discuss whether modelling would be useful and why |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
-|                           |                                                                |            |                                |
-|                           | Challenges participants have encountered in using evidence     |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Common misconceptions about modelling                          |            |                                |
-|                           |                                                                |            |                                |
-|                           | Where to next                                                  |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-
-Part 1: Introduction to Health Economics (30 min)
-
--   Why economics matters in programme decision-making
-
--   Linking modelling to resource allocation
-
-Part 2: Economic Evidence and Policy (45 min)
-
--   Cost-effectiveness and prioritisation
-
--   Funding constraints and trade-offs
-
-Part 3: Practical Exercise (45–60 min)
-
--   Participants compare intervention options under different budget scenarios
-
--   Discuss implications for programme priorities
-
-Part 4: Group Discussion (30 min)
-
--   Using economic evidence for advocacy and investment
-
--   Balancing impact, feasibility, and affordability
-
-Part 5: Reflection and Wrap-Up (15 min)
-
--   Key lessons for financing and prioritisation decisions
++----------------------------------+--------------------------------------------------------+------------+--------------------------------------+
+| Topic                            | Description                                            | Duration   | Format                               |
++----------------------------------+--------------------------------------------------------+------------+--------------------------------------+
+| Introduction to Health Economics | Why economics matters in programme decision-making     | 45 min     | Presentation                         |
+|                                  |                                                        |            |                                      |
+|                                  | Core concepts in health economics                      |            |                                      |
+|                                  |                                                        |            |                                      |
+|                                  | Economic evaluation                                    |            |                                      |
+|                                  |                                                        |            |                                      |
+|                                  | DALYs and QALYs                                        |            |                                      |
++----------------------------------+--------------------------------------------------------+------------+--------------------------------------+
+| Further Analyses                 | Return on investment and investment cases              | 30 min     | Presentation                         |
+|                                  |                                                        |            |                                      |
+|                                  | Budget impact analysis                                 |            |                                      |
+|                                  |                                                        |            |                                      |
+|                                  | Resource optimisation and allocation                   |            |                                      |
++----------------------------------+--------------------------------------------------------+------------+--------------------------------------+
+| Models, Costs, and Outcomes      | Perspectives                                           | 30 min     | Presentation                         |
+|                                  |                                                        |            |                                      |
+|                                  | Costing                                                |            |                                      |
+|                                  |                                                        |            |                                      |
+|                                  | Discounting and inflation                              |            |                                      |
++----------------------------------+--------------------------------------------------------+------------+--------------------------------------+
+| Case Study                       | Economics of malaria elimination                       | 30 min     | Presentation and plenary discussion  |
++----------------------------------+--------------------------------------------------------+------------+--------------------------------------+
+| Group Exercise                   | Application of health economics to Capstone Projects   | 30-60 min  | Small group exercise                 |
++----------------------------------+--------------------------------------------------------+------------+--------------------------------------+
+| Reflection and Wrap-Up           | Key lessons for financing and prioritisation decisions | 15 min     | Presentation                         |
+|                                  |                                                        |            |                                      |
+|                                  | Using economic evidence for advocacy and investment    |            |                                      |
+|                                  |                                                        |            |                                      |
+|                                  | Balancing impact, feasibility, and affordability       |            |                                      |
++----------------------------------+--------------------------------------------------------+------------+--------------------------------------+
 
 ### Practical Exercise
 
-Exercise Title: Prioritising Under Budget Constraints
+Exercise Title: Health economic for decision-making
 
-**Instructions:\
-** Participants:
+**Instructions:**
 
-1.  Review intervention options and budget scenarios
+For the modelling question(s) in your Capstone Project, discuss the following:
 
-2.  Compare trade-offs between impact, cost, and feasibility
+-   What is the budget context of your setting (total budget, annual budget, intervention budget)?
 
-3.  Recommend a prioritised strategy
+-   What economic analyses would you want to be conducted? What outcomes would be of interest?
 
-4.  Prepare a short justification for policymakers or funders
+-   Map the costs associated with these analyses. 
 
-Groups present and discuss their recommendations.
+-   Go through the CHEERS checklist, completing items in the methods sections
+
+-   Does your country have a WTP threshold? How would this influence decision-making?
+
+*Note on timing: This exercise can be incorporated into the main Health Economics session and continued in the Capstone Project group work session, if more time is needed.*
 
 ### Facilitator Guidance
 
@@ -124,21 +101,13 @@ Groups present and discuss their recommendations.
 -   Use relatable programme examples and investment cases
 
 ::: {.callout-caution appearance="default"}
-## What we learned along the way
+## Practical reflections from delivering the inaugural cohort
 
-Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
-
-Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
+We allocated a 3-hour session to this module, which allowed us to cover the core concepts. However, this topic was new to most fellows and was of particular interest—feedback indicated that there was appetite for more health economic content. In future iterations, we recommend extending the session or adding an additional follow-up session to allow for deeper engagement with the material and more time for group exercises and discussion.
 :::
-
 
 ## Materials and Resources
 
--   Budget and intervention scenarios
-
--   Cost-effectiveness examples
-
--   Prioritisation templates
-
 -   Facilitator slides
 
+-   Case study

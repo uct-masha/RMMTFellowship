@@ -11,11 +11,11 @@ This module focuses on communicating modelling findings clearly, accurately, and
 
 By the end of this module, participants should be able to:
 
--   What are good practices for communicating model findings?
+-   Understand good practices for communicating model findings
 
--   How can communication be tailored to different audiences?
+-   Demonstrate how model communication can be tailored to different audiences
 
--   What tools and formats best support clear and impactful messaging?
+-   Identify what tools and formats best support clear and impactful messaging
 :::
 
 ::: {.callout-note appearance="default"}
@@ -34,53 +34,66 @@ By the end of this module, participants should be able to:
 
 ## Delivery Plan
 
-This module consists of...
+This module consists of a single 2-hour session, with a mix of group exercise, discussion, and presentations.
 
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Topic                     | Description                                                    | Duration   | Format                         |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Why modelling matters in malaria programmes                    |            |                                |
-|                           |                                                                |            |                                |
-|                           | Examples of modelling informing policy decisions               |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Comparing model types and applications                         |            |                                |
-|                           |                                                                |            |                                |
-|                           | Strengths and limitations of different approaches              |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
-|                           |                                                                |            |                                |
-|                           | Small groups discuss whether modelling would be useful and why |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
-|                           |                                                                |            |                                |
-|                           | Challenges participants have encountered in using evidence     |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Common misconceptions about modelling                          |            |                                |
-|                           |                                                                |            |                                |
-|                           | Where to next                                                  |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
+| Topic                            | Description                                                                                                          | Duration   | Format                                      |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
+| Group Exercise and Discussion    | Who are potential audiences for preliminary and final results?                                                       | 30 min     | Small group discussion with feedback        |
+|                                  |                                                                                                                      |            |                                             |
+|                                  | What formats are most appropriate for each audience?                                                                 |            |                                             |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
+| Good Practices for Communication | Good practices and principles for communicating model findings                                                       | 30 min     | Presentation                                |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
+| Group Discussion: Experiences    | What has been your experience (good or bad) with technical research being communicated in a decision-making setting? | 20 min     | Group discussion (plenary)                  |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
+| Communications and Engagement    | Preferred approaches and best practices for engaging with modellers                                                  | 30 min     | Presentation and group discussion (plenary) |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
+| Reflection and Wrap-Up           | Key takeaways                                                                                                        | 10 min     | Presentation                                |
+|                                  |                                                                                                                      |            |                                             |
+|                                  | Application for Capstone Projects                                                                                    |            |                                             |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
 
-::: {.exercise-box}
 ### Practical Exercise
 
-Exercise Title: Translating Findings for Policymakers
+Exercise Title: Communicating Findings for Different Audiences
 
-**Instructions:\
-** Participants:
+*Note: We start this session with a group exercise to stimulation discussion before moving on to principles and good practice.*
 
-1.  Review a technical modelling summary
+**Exercise Instructions:\
+**Scenario: It’s a year from now and the Capstone Projects have been conducted. The model findings are ready to present.
 
-2.  Develop a short communication product for a policymaker audience
+In country teams, fellows discuss:
 
-3.  Present key findings and recommendations in 3–5 minutes
+-   Who are the potential audiences? At what points in the project/modelling process have you engaged each of them?
 
-4.  Receive peer and facilitator feedback
+-   Who have you discussed the preliminary findings with?
+
+-   Who will you present the final results/findings with?
+
+-   What is the purpose of communicating findings to each of these audiences/stakeholders? What action do you hope will emerge from the engagement?
+
+Complete the audience-matrix template by considering:
+
+-   For each audience, what is the ideal approach (e.g. format, duration, setting, practicalities/formalities involved)?
+
+-   How valuable do you think each format is for each audience (low, medium, high)?
+
+-   What practical considerations should be taken into account?
+
+**Discussion Questions for Engaging with Modellers:**
+
+-   At what stage of the decision-making cycle would you prefer to engage with modellers (problem definition, data collection, model building, interpretation, dissemination)?
+
+-   How often would you like to interact with the modelling team (one-off workshop, regular briefings, embedded collaboration)?
+
+-   What formats of engagement do you find most effective — technical workshops, short policy dialogues, dashboards, written briefs, or joint scenario discussions?
+
+-   Would you prefer that models are co-developed (you contribute to assumptions and scenarios) or mainly reviewed once results are ready?
+
+-   How can the process best fit your institutional constraints (e.g., time, staff availability, decision timelines)?
+
+-   How can you build local capacity during this process?
 
 ### Facilitator Guidance
 
@@ -89,50 +102,12 @@ Exercise Title: Translating Findings for Policymakers
 -   Reinforce that communication should focus on decisions and implications
 
 -   Highlight the importance of tailoring communication to audience needs
-
--   Encourage participants to simplify without oversimplifying
-:::
-
-### Practical Exercise
-
-Exercise Title: Translating Findings for Policymakers
-
-**Instructions:\
-** Participants:
-
-1.  Review a technical modelling summary
-
-2.  Develop a short communication product for a policymaker audience
-
-3.  Present key findings and recommendations in 3–5 minutes
-
-4.  Receive peer and facilitator feedback
-
-### Facilitator Guidance
-
--   Encourage concise, action-oriented messaging
-
--   Reinforce that communication should focus on decisions and implications
-
--   Highlight the importance of tailoring communication to audience needs
-
--   Encourage participants to simplify without oversimplifying
-
-::: {.callout-caution appearance="default"}
-## What we learned along the way
-
-Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
-
-Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
-:::
 
 ## Materials and Resources
 
 -   Example policy briefs and presentations
 
--   Communication templates
-
--   Visualisation examples
+-   Format-audience matrix exercise
 
 -   Facilitator slides
 

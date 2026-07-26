@@ -72,11 +72,6 @@ This module consists of one content session and a case study or guest speaker (s
 
 -   Highlight how the curriculum will expand different elements of the modelling pipeline
 
-::: {.callout-caution appearance="default"}
-## **Practical reflections from delivering the inaugural cohort**
-
-TBD...
-:::
 
 ## Materials and Resources
 

@@ -3,11 +3,11 @@ title: "Welcome"
 numbered: false
 ---
 
-**Welcome to the Quarto version of the RMMT Fellowship Curriculum Pack.**
+**Welcome to the RMMT Fellowship Curriculum Pack.**
 
 Use the sidebar to move through the RMMT Fellowship information, curriculum overview, module guides, supporting tools, MEL, scale-up, and facilitator guidance.
 
-Teaching materials and exercise templates are available in the accompanying RMMT Fellowship GitHub repository: \<insert link when ready\>.
+Teaching materials and exercise templates will be available in the accompanying RMMT Fellowship GitHub repository.
 
 ![](images/logo-block.png){fig-align="center"}
 

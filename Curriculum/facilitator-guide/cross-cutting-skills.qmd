@@ -23,7 +23,7 @@ When communicating modelling results, fellows should aim to make messages concis
 | Decision relevance            | What policy or programme decision does this evidence       |
 |                               | support?                                                   |
 +-------------------------------+------------------------------------------------------------+
-| Main finding                  | What is the key result or message decision-makers need to   |
+| Main finding                  | What is the key result or message decision-makers need to  |
 |                               | understand?                                                |
 +-------------------------------+------------------------------------------------------------+
 | Assumptions                   | What assumptions shape the interpretation of the results?   |
@@ -43,7 +43,7 @@ A useful approach is to structure communication around a simple storyline: the p
 Ask fellows to summarise a modelling result in three ways: first for a technical modeller, then for a malaria programme manager, and finally for a senior policymaker with limited time. This helps fellows practise adapting language, emphasis, and level of detail.
 :::
 
----
+
 
 ## Bridging Modelling and Decision-Making
 
@@ -62,21 +62,21 @@ The bridge between modelling and decision-making can be strengthened by focusing
 +-------------------------------+------------------------------------------------------------+
 | Step                          | Policy-Focused Consideration                               |
 +-------------------------------+------------------------------------------------------------+
-| Define the question           | Is the modelling question linked to a real decision or      |
+| Define the question           | Is the modelling question linked to a real decision or     |
 |                               | programme priority?                                        |
 +-------------------------------+------------------------------------------------------------+
-| Clarify assumptions           | Are key assumptions transparent and understandable to       |
+| Clarify assumptions           | Are key assumptions transparent and understandable to      |
 |                               | non-technical stakeholders?                                |
 +-------------------------------+------------------------------------------------------------+
-| Generate outputs              | Are outputs presented in formats that support comparison    |
+| Generate outputs              | Are outputs presented in formats that support comparison   |
 |                               | and interpretation?                                        |
 +-------------------------------+------------------------------------------------------------+
-| Interpret findings            | What do the findings mean in light of programme realities,  |
+| Interpret findings            | What do the findings mean in light of programme realities, |
 |                               | constraints, and uncertainty?                              |
 +-------------------------------+------------------------------------------------------------+
 | Communicate evidence          | Are results communicated clearly for the intended audience? |
 +-------------------------------+------------------------------------------------------------+
-| Support action                | What decisions, discussions, or next steps could the        |
+| Support action                | What decisions, discussions, or next steps could the       |
 |                               | evidence inform?                                           |
 +-------------------------------+------------------------------------------------------------+
 
@@ -88,7 +88,7 @@ Fellows should also consider timing. Even high-quality modelling may have limite
 For modelling evidence to influence policy, it must be available when decisions are being discussed. Fellows should consider policy and programme timelines early in the modelling process.
 :::
 
----
+
 
 ## Facilitating Technical–Policy Dialogue
 
@@ -109,15 +109,15 @@ Fellows should learn to facilitate dialogue by asking questions that connect tec
 +------------------------------------+------------------------------------------------------------+
 | What does the model estimate?      | What decision could this estimate help inform?             |
 +------------------------------------+------------------------------------------------------------+
-| What assumptions were used?        | Which assumptions are most important for decision-makers    |
+| What assumptions were used?        | Which assumptions are most important for decision-makers   |
 |                                    | to understand?                                             |
 +------------------------------------+------------------------------------------------------------+
 | How uncertain are the results?     | What risks or trade-offs should be considered?             |
 +------------------------------------+------------------------------------------------------------+
-| Which scenario performs best?      | Which option is most feasible, affordable, and aligned with |
+| Which scenario performs best?      | Which option is most feasible, affordable, and aligned with|
 |                                    | programme priorities?                                      |
 +------------------------------------+------------------------------------------------------------+
-| What additional data are needed?   | What decisions can be made now, and what evidence should    |
+| What additional data are needed?   | What decisions can be made now, and what evidence should   |
 |                                    | be strengthened over time?                                 |
 +------------------------------------+------------------------------------------------------------+
 
@@ -131,7 +131,7 @@ When discussion becomes too technical, ask: “What does this mean for a program
 
 Technical–policy dialogue should end with synthesis. Participants should be clear on what was discussed, what evidence suggests, what uncertainties remain, and what actions or next steps are needed.
 
----
+
 
 ## Using Evidence for Advocacy and Resource Mobilisation
 
@@ -150,21 +150,21 @@ Fellows should be encouraged to identify the audience and purpose of advocacy be
 +-------------------------------+------------------------------------------------------------+
 | Advocacy Question             | How Modelling Evidence Can Help                            |
 +-------------------------------+------------------------------------------------------------+
-| Why is action needed?         | Show projected disease burden, risks, or consequences of    |
+| Why is action needed?         | Show projected disease burden, risks, or consequences of   |
 |                               | delayed action                                             |
 +-------------------------------+------------------------------------------------------------+
-| Which option should be        | Compare intervention scenarios, target populations, or      |
+| Which option should be        | Compare intervention scenarios, target populations, or     |
 | prioritised?                  | implementation strategies                                  |
 +-------------------------------+------------------------------------------------------------+
-| What is the expected impact?  | Estimate potential cases, deaths, infections, or other      |
+| What is the expected impact?  | Estimate potential cases, deaths, infections, or other     |
 |                               | outcomes averted                                           |
 +-------------------------------+------------------------------------------------------------+
-| What resources are required?  | Link intervention options to costs, feasibility, and        |
+| What resources are required?  | Link intervention options to costs, feasibility, and       |
 |                               | expected benefits                                          |
 +-------------------------------+------------------------------------------------------------+
-| What are the trade-offs?      | Compare alternative uses of limited resources               |
+| What are the trade-offs?      | Compare alternative uses of limited resources              |
 +-------------------------------+------------------------------------------------------------+
-| What is the risk of inaction? | Illustrate potential future scenarios if current gaps       |
+| What is the risk of inaction? | Illustrate potential future scenarios if current gaps      |
 |                               | remain unaddressed                                         |
 +-------------------------------+------------------------------------------------------------+
 

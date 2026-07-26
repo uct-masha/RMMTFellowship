@@ -79,11 +79,6 @@ Example stakeholders: Decision-makers, Modellers, Ministry of Health, NaMP Manag
 
 -   Highlight the importance of shared ownership and communication
 
-::: {.callout-caution appearance="default"}
-## Practical reflections from delivering the inaugural cohort
-
-TBC
-:::
 
 ## Materials and Resources
 

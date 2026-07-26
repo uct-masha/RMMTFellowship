@@ -13,9 +13,9 @@ By the end of this module, participants should be able to:
 
 -   Understand scenario analysis and how it is used in modelling
 
--   How do we design meaningful and realistic scenarios?
+-   Design meaningful and realistic scenarios
 
--   How should scenario results be interpreted and compared?
+-   Interpret and compare scenario results
 :::
 
 ::: {.callout-note appearance="default"}
@@ -32,41 +32,39 @@ By the end of this module, participants should be able to:
 -   Decision-making under uncertainty
 :::
 
-
-
 ## Delivery Plan
 
-This module consists of...
+This module consists of a single session, with a mix of presentation and exercise.
 
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Topic                     | Description                                                    | Duration   | Format                         |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Why modelling matters in malaria programmes                    |            |                                |
-|                           |                                                                |            |                                |
-|                           | Examples of modelling informing policy decisions               |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Comparing model types and applications                         |            |                                |
-|                           |                                                                |            |                                |
-|                           | Strengths and limitations of different approaches              |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
-|                           |                                                                |            |                                |
-|                           | Small groups discuss whether modelling would be useful and why |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
-|                           |                                                                |            |                                |
-|                           | Challenges participants have encountered in using evidence     |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Common misconceptions about modelling                          |            |                                |
-|                           |                                                                |            |                                |
-|                           | Where to next                                                  |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Topic                     | Description                                                    | Duration  | Format                         |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Introduction to modelling | What is modelling?                                             | 30 min    | Presentation                   |
+|                           |                                                                |           |                                |
+|                           | Why modelling matters in malaria programmes                    |           |                                |
+|                           |                                                                |           |                                |
+|                           | Examples of modelling informing policy decisions               |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Different types of models | Overview of modelling approaches                               | 30 min    | Presentation                   |
+|                           |                                                                |           |                                |
+|                           | Comparing model types and applications                         |           |                                |
+|                           |                                                                |           |                                |
+|                           | Strengths and limitations of different approaches              |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min | Small group break out exercise |
+|                           |                                                                |           |                                |
+|                           | Small groups discuss whether modelling would be useful and why |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min    | Group discussion (plenary)     |
+|                           |                                                                |           |                                |
+|                           | Challenges participants have encountered in using evidence     |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
+| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min | Presentation                   |
+|                           |                                                                |           |                                |
+|                           | Common misconceptions about modelling                          |           |                                |
+|                           |                                                                |           |                                |
+|                           | Where to next                                                  |           |                                |
++---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
 
 Part 1: Introduction to Scenario Analysis (30 min)
 
@@ -96,8 +94,6 @@ Part 5: Reflection and Wrap-Up (15 min)
 
 -   Key considerations for scenario design and use
 
-
-
 ### Practical Exercise
 
 Exercise Title: Comparing Intervention Scenarios
@@ -125,14 +121,6 @@ Groups present and compare findings.
 
 -   Use examples linked to resource allocation or intervention planning
 
-::: {.callout-caution appearance="default"}
-## What we learned along the way
-
-Reflections and practical insights from designing and delivering the inaugural RMMT Fellowship.
-
-Add some text here relfecting on lessons learned from real-world examples of stakeholder engagement in modelling projects.
-:::
-
 ## Materials and Resources
 
 -   Scenario planning templates
@@ -142,4 +130,3 @@ Add some text here relfecting on lessons learned from real-world examples of sta
 -   Facilitator slides
 
 -   Group worksheets
-

@@ -2,7 +2,7 @@
 title: "Facilitator Guidance"
 ---
 
-## Preparing to Deliver the Fellowship 2
+## Preparing to Deliver the Fellowship
 
 Successful delivery of the RMMT Fellowship depends on thoughtful preparation, contextual awareness, and a commitment to participant-centred learning. Facilitators should view preparation as more than reviewing slides and materials; it involves understanding the participants, their programme contexts, and the policy challenges they are seeking to address.
 
@@ -128,55 +128,18 @@ The agendas provided below are intended as examples rather than rigid templates.
 | Reflection and wrap-up                    | 10 min     |
 +-------------------------------------------+------------+
 
-### Example Half-Day Session
-
-+-------------------------------------------+------------+
-| Component                                 | Duration   |
-+-------------------------------------------+------------+
-| Introduction and objectives               | 15 min     |
-+-------------------------------------------+------------+
-| Content delivery                          | 45 min     |
-+-------------------------------------------+------------+
-| Interactive exercise                      | 60 min     |
-+-------------------------------------------+------------+
-| Break                                     | 15 min     |
-+-------------------------------------------+------------+
-| Group discussion and report back          | 45 min     |
-+-------------------------------------------+------------+
-| Reflection and action planning            | 30 min     |
-+-------------------------------------------+------------+
-
-### Example Full-Day Session
-
-+-------------------------------------------+------------+
-| Component                                 | Duration   |
-+-------------------------------------------+------------+
-| Welcome and recap                         | 15 min     |
-+-------------------------------------------+------------+
-| Session 1                                 | 60 min     |
-+-------------------------------------------+------------+
-| Exercise 1                                | 45 min     |
-+-------------------------------------------+------------+
-| Discussion and report back                | 30 min     |
-+-------------------------------------------+------------+
-| Break                                     | 15 min     |
-+-------------------------------------------+------------+
-| Session 2                                 | 60 min     |
-+-------------------------------------------+------------+
-| Exercise 2                                | 60 min     |
-+-------------------------------------------+------------+
-| Lunch                                     | 60 min     |
-+-------------------------------------------+------------+
-| Session 3                                 | 60 min     |
-+-------------------------------------------+------------+
-| Capstone project work                     | 90 min     |
-+-------------------------------------------+------------+
-| Reflection and close                      | 30 min     |
-+-------------------------------------------+------------+
 
 ### Time Management Considerations
 
 Facilitators should prioritise discussion, reflection, and application over content coverage. Participants often gain more value from exploring one concept deeply than from rapidly progressing through multiple topics. Time should be protected for participant discussion, synthesis of key messages, and connections to programme realities.
+
+::: {.callout-caution appearance="default"}
+## **Practical reflections from delivering the inaugural cohort**
+
+While we did our best to stick to time and follow the schedule, we found that some sessions ran over time and others finished early. We recommend that facilitators build in flexibility to adapt timing based on participant engagement and discussion.
+
+Further, during the intensive week blocks, we finished by 15.30 each day to allow time for fellows to address their regular work commitments. By intentionally setting aside this time, we had a more engagement throughout the day where fellows did not feel they needed to juggle attendance and ongoing work.
+:::
 
 
 
@@ -220,7 +183,6 @@ Reflection activities can be used throughout the Fellowship to encourage deeper 
 - What additional information would support decision-making?
 :::
 
----
 
 ## Managing Group Work and Discussions
 
@@ -252,9 +214,6 @@ In every cohort, some participants will be more comfortable speaking than others
 | realities                            |                                          |
 +--------------------------------------+------------------------------------------+
 
-### Working with Country Teams
-
-Country teams play a critical role in the Fellowship and capstone projects. Facilitators should encourage teams to integrate technical, operational, and policy perspectives when defining problems and developing modelling questions. The goal is not only to produce a project output but also to strengthen collaboration within programme teams.
 
 ::: {.callout-important appearance="default"}
 ## Key Takeaway
@@ -306,7 +265,7 @@ The purpose of modelling is not to predict the future with certainty, but to sup
 
 Capstone projects provide an opportunity for participants to practise technical–policy engagement in a realistic setting. Facilitators should encourage teams to think carefully about how questions are framed, how findings would be communicated, and how outputs could ultimately support decision-making processes.
 
----
+
 
 ## Facilitator Reflection and Continuous Improvement
 

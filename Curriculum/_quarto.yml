@@ -42,7 +42,7 @@ book:
       chapters:
         - facilitator-guide/facilitator-guidance.qmd
         - facilitator-guide/cross-cutting-skills.qmd
-        - facilitator-guide/adaptation-and-scale-up.qmd
+    #    - facilitator-guide/adaptation-and-scale-up.qmd
         
     - part: "Monitoring, Evaluation, and Learning"
       chapters:
@@ -53,8 +53,8 @@ book:
       chapters:
         - resources/abbreviations.qmd
         - resources/glossary.qmd
-        - resources/readings.qmd
-        - resources/tools.qmd
+     #   - resources/readings.qmd
+     #   - resources/tools.qmd
 
 format:
   html:

@@ -16,11 +16,9 @@ Each question is scored on a five-point Likert scale, where 1 = Strongly Disagre
 The Likert-scale questions provide a structured way to assess perceived change over time. They are most useful when interpreted alongside qualitative feedback, which helps explain why fellows’ confidence may have increased, remained stable, or varied across competency areas.
 :::
 
-Questions for the Likert-scale quantitative component, organised by competency area, are shown below.
+### Survey Questions
 
-<br>
-
-📊 Understanding and Interpreting Modelling Outputs
+**Competency Area 1.** Understanding and Interpreting Modelling Outputs
 
 +-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Short Name                  | Question                                                                                                                                                        |
@@ -36,9 +34,7 @@ Questions for the Likert-scale quantitative component, organised by competency a
 | Assumptions and Limitations | I understand the assumptions and limitations underlying malaria modelling outputs.                                                                              |
 +-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-<br>
-
-🧭 Applying Modelling to Decision-Making
+**Competency Area 2.** Applying Modelling to Decision-Making
 
 +--------------------------------+-------------------------------------------------------------------------------------+
 | Short Name                     | Question                                                                            |
@@ -52,9 +48,7 @@ Questions for the Likert-scale quantitative component, organised by competency a
 | Support Decision-making        | I feel capable of using modelling evidence to support strategic decision-making.    |
 +--------------------------------+-------------------------------------------------------------------------------------+
 
-<br>
-
-🤝 Collaboration, Communication, and Influence
+**Competency Area 3.** Collaboration, Communication, and Influence
 
 +------------------------------------------+-------------------------------------------------------------------------------------------------+
 | Short Name                               | Question                                                                                        |
@@ -86,66 +80,64 @@ Open-ended feedback should be reviewed during the Fellowship, not only at the en
 
 Suggested open-ended questions for each survey are shown below.
 
-<br>
-
-+------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Survey           | Suggested Open-Ended Questions                                                                                                                                                  |
-+------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Baseline         | What do you hope to gain from the Fellowship?                                                                                                                                   |
-|                  |                                                                                                                                                                                 |
-|                  | What experience have you had with malaria modelling or model outputs?                                                                                                           |
-|                  |                                                                                                                                                                                 |
-|                  | What areas do you feel least confident about at this stage?                                                                                                                     |
-+------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Midline          | Which aspects of the course do you feel:                                                                                                                                        |
-|                  |                                                                                                                                                                                 |
-|                  | -   most confident about?                                                                                                                                                       |
-|                  |                                                                                                                                                                                 |
-|                  | -   least confident about?                                                                                                                                                      |
-|                  |                                                                                                                                                                                 |
-|                  | -   are most beneficial to your work?                                                                                                                                           |
-|                  |                                                                                                                                                                                 |
-|                  | Which topics or activities would benefit from further clarification?                                                                                                            |
-|                  |                                                                                                                                                                                 |
-|                  | What additional support would help you apply learning to your capstone project?                                                                                                 |
-+------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Endline          | Overall Experience                                                                                                                                                              |
-|                  |                                                                                                                                                                                 |
-|                  | -   How would you describe your overall experience of the RMMT Fellowship?                                                                                                      |
-|                  |                                                                                                                                                                                 |
-|                  | -   What three words best capture your experience of the fellowship?                                                                                                            |
-|                  |                                                                                                                                                                                 |
-|                  | -   How well did the programme meet your expectations?                                                                                                                          |
-|                  |                                                                                                                                                                                 |
-|                  | Learning and Impact                                                                                                                                                             |
-|                  |                                                                                                                                                                                 |
-|                  | -   How has your understanding of malaria modelling and its policy application evolved during the fellowship?                                                                   |
-|                  |                                                                                                                                                                                 |
-|                  | -   What have been the most useful or impactful skills, tools, or knowledge you have gained during the fellowship?                                                              |
-|                  |                                                                                                                                                                                 |
-|                  | -   How has your confidence and ability to engage with modelling evidence for policy and decision-making improved since the start of the fellowship?                            |
-|                  |                                                                                                                                                                                 |
-|                  | Programme Design and Delivery                                                                                                                                                   |
-|                  |                                                                                                                                                                                 |
-|                  | -   How effective was the structure and pacing of the programme (e.g., balance between theory and application, in-person weeks vs virtual sessions, pace and level of content)? |
-|                  |                                                                                                                                                                                 |
-|                  | -   Were there any logistical or delivery aspects that could be improved (timing, communication, workload, materials)?                                                          |
-|                  |                                                                                                                                                                                 |
-|                  | -   What suggestions would you make to enhance future cohorts?                                                                                                                  |
-|                  |                                                                                                                                                                                 |
-|                  | Broader Impact and Recommendations                                                                                                                                              |
-|                  |                                                                                                                                                                                 |
-|                  | -   Who do you think would most benefit from participating in future RMMT fellowships (e.g., roles, sectors, experience levels)?                                                |
-|                  |                                                                                                                                                                                 |
-|                  | -   Would you recommend the RMMT Fellowship to others? Why or why not?                                                                                                          |
-|                  |                                                                                                                                                                                 |
-|                  | -   Would you be interested in attending a follow-up RMMT course and what should be the primary focus?                                                                          |
-|                  |                                                                                                                                                                                 |
-|                  | Personal Reflections                                                                                                                                                            |
-|                  |                                                                                                                                                                                 |
-|                  | -   What has been your biggest personal or professional takeaway from this journey?                                                                                             |
-|                  |                                                                                                                                                                                 |
-|                  | -   How do you see yourself applying what you’ve learned in the next 6–12 months?                                                                                               |
-|                  |                                                                                                                                                                                 |
-|                  | -   Please share a short testimonial (2–3 sentences) that captures what this fellowship has meant to you.                                                                       |
-+------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Survey    | Suggested Open-Ended Questions                                                                                                                                                  |
++-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Baseline  | What do you hope to gain from the Fellowship?                                                                                                                                   |
+|           |                                                                                                                                                                                 |
+|           | What experience have you had with malaria modelling or model outputs?                                                                                                           |
+|           |                                                                                                                                                                                 |
+|           | What areas do you feel least confident about at this stage?                                                                                                                     |
++-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Midline   | Which aspects of the course do you feel:                                                                                                                                        |
+|           |                                                                                                                                                                                 |
+|           | -   most confident about?                                                                                                                                                       |
+|           |                                                                                                                                                                                 |
+|           | -   least confident about?                                                                                                                                                      |
+|           |                                                                                                                                                                                 |
+|           | -   are most beneficial to your work?                                                                                                                                           |
+|           |                                                                                                                                                                                 |
+|           | Which topics or activities would benefit from further clarification?                                                                                                            |
+|           |                                                                                                                                                                                 |
+|           | What additional support would help you apply learning to your capstone project?                                                                                                 |
++-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Endline   | Overall Experience                                                                                                                                                              |
+|           |                                                                                                                                                                                 |
+|           | -   How would you describe your overall experience of the RMMT Fellowship?                                                                                                      |
+|           |                                                                                                                                                                                 |
+|           | -   What three words best capture your experience of the fellowship?                                                                                                            |
+|           |                                                                                                                                                                                 |
+|           | -   How well did the programme meet your expectations?                                                                                                                          |
+|           |                                                                                                                                                                                 |
+|           | Learning and Impact                                                                                                                                                             |
+|           |                                                                                                                                                                                 |
+|           | -   How has your understanding of malaria modelling and its policy application evolved during the fellowship?                                                                   |
+|           |                                                                                                                                                                                 |
+|           | -   What have been the most useful or impactful skills, tools, or knowledge you have gained during the fellowship?                                                              |
+|           |                                                                                                                                                                                 |
+|           | -   How has your confidence and ability to engage with modelling evidence for policy and decision-making improved since the start of the fellowship?                            |
+|           |                                                                                                                                                                                 |
+|           | Programme Design and Delivery                                                                                                                                                   |
+|           |                                                                                                                                                                                 |
+|           | -   How effective was the structure and pacing of the programme (e.g., balance between theory and application, in-person weeks vs virtual sessions, pace and level of content)? |
+|           |                                                                                                                                                                                 |
+|           | -   Were there any logistical or delivery aspects that could be improved (timing, communication, workload, materials)?                                                          |
+|           |                                                                                                                                                                                 |
+|           | -   What suggestions would you make to enhance future cohorts?                                                                                                                  |
+|           |                                                                                                                                                                                 |
+|           | Broader Impact and Recommendations                                                                                                                                              |
+|           |                                                                                                                                                                                 |
+|           | -   Who do you think would most benefit from participating in future RMMT fellowships (e.g., roles, sectors, experience levels)?                                                |
+|           |                                                                                                                                                                                 |
+|           | -   Would you recommend the RMMT Fellowship to others? Why or why not?                                                                                                          |
+|           |                                                                                                                                                                                 |
+|           | -   Would you be interested in attending a follow-up RMMT course and what should be the primary focus?                                                                          |
+|           |                                                                                                                                                                                 |
+|           | Personal Reflections                                                                                                                                                            |
+|           |                                                                                                                                                                                 |
+|           | -   What has been your biggest personal or professional takeaway from this journey?                                                                                             |
+|           |                                                                                                                                                                                 |
+|           | -   How do you see yourself applying what you’ve learned in the next 6–12 months?                                                                                               |
+|           |                                                                                                                                                                                 |
+|           | -   Please share a short testimonial (2–3 sentences) that captures what this fellowship has meant to you.                                                                       |
++-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

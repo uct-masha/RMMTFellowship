@@ -45,7 +45,7 @@ The Fellowship treats participants as active contributors to the learning proces
 Learning activities are designed to help fellows move between concepts, application, and reflection. Modules combine short technical inputs with facilitated discussion, practical exercises, country team work, and opportunities to connect learning to capstone projects. This structure allows fellows to test ideas, question assumptions, and consider how modelling can support decision-making in their own contexts.
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | Learning Feature | How It Supports Fellows |
 | Applied examples | Connect modelling concepts to malaria programme decisions |
 | Facilitated discussion | Encourage exchange across technical, policy, and programme perspectives |
@@ -67,7 +67,7 @@ The learning approach also recognises that uncertainty is central to both modell
 The Fellowship uses an iterative learning model. Ideas introduced in early modules are revisited and strengthened through later sessions, practical exercises, and capstone project work. Fellows gradually build from understanding modelling concepts to formulating policy-relevant questions, interpreting outputs, communicating findings, and considering how modelling evidence can be embedded in programme decision-making.
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | Learning Stage | Focus |
 | Explore | Introduce concepts, questions, and programme challenges |
 | Apply | Use exercises and case studies to practise key skills |
@@ -77,9 +77,11 @@ The Fellowship uses an iterative learning model. Ideas introduced in early modul
 
 By the end of the Fellowship, participants should be better equipped to engage with modelling evidence, contribute to the formulation of modelling questions, interpret outputs critically, and communicate findings in ways that support malaria programme strategy and policy decision-making.
 
-## Curriculum Overview
+## Module Outline
 
-The curriculum was designed to provide a comprehensive and practical foundation in the use of modelling for malaria policy and decision-making. It spans the full modelling process—from framing policy-relevant questions and understanding systems, through model design, development, and critique, to interpreting outputs and communicating findings—while also addressing cross-cutting themes such as uncertainty, health economics, and stakeholder engagement. The selection of topics reflects the needs of the fellowship audience, balancing technical understanding with practical application to ensure participants can both engage critically with models and use their results in real-world contexts. The modules are structured to build on one another, reinforcing key concepts while allowing space for reflection and application. A mix of teaching approaches was used throughout, including lectures to introduce core concepts, facilitated discussions to draw on participant experience, and interactive and group-based exercises to apply learning to relevant scenarios, fostering both technical confidence and collaborative application skills.
+The roadmap below provides an overview of the Fellowship's key modules and corresponding learning outcomes. Each module is detailed in the following sections of this curriculum pack.
+
+<br>
 
 ![](/images/curriculum1.png)
 
