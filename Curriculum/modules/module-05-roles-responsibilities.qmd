@@ -34,7 +34,7 @@ By the end of this module, participants should be able to:
 
 ## Delivery Plan
 
-This module is comprised of one main activity. However, we split the delivery over two session—one during the in-person block and one during a virtual session.
+This module is comprised of one main activity. However, we split the delivery over two sessions—one during the in-person block and one during a virtual session.
 
 +-----------------------------+------------------------------------------------------------------------------------------+-----------+-------------------------------------------------------+
 | Topic                       | Description                                                                              | Duration  | Format                                                |

@@ -54,6 +54,8 @@ This module consists of two sessions, a lecture and a practical. These can be ru
 | Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
 |                           |                                                                |            |                                |
 |                           | Small groups discuss whether modelling would be useful and why |            |                                |
+|                           |                                                                |            |                                |
+|                           | Interactive tool: Modelling in action                          |            |                                |
 +---------------------------+----------------------------------------------------------------+------------+--------------------------------+
 | Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
 |                           |                                                                |            |                                |
