@@ -34,82 +34,54 @@ By the end of this module, participants should be able to:
 
 ## Delivery Plan
 
-This module consists of a single session, with a mix of presentation and exercise.
+The teaching component of this module consists of a single 1.5-hour session, with a mix of presentation and exercise. However, themes from this module will be revisited in subsequent modules, discussed further in the *Interpreting Model Outputs* module, and applied in the Capstone Projects.
 
-+---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
-| Topic                     | Description                                                    | Duration  | Format                         |
-+---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
-| Introduction to modelling | What is modelling?                                             | 30 min    | Presentation                   |
-|                           |                                                                |           |                                |
-|                           | Why modelling matters in malaria programmes                    |           |                                |
-|                           |                                                                |           |                                |
-|                           | Examples of modelling informing policy decisions               |           |                                |
-+---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
-| Different types of models | Overview of modelling approaches                               | 30 min    | Presentation                   |
-|                           |                                                                |           |                                |
-|                           | Comparing model types and applications                         |           |                                |
-|                           |                                                                |           |                                |
-|                           | Strengths and limitations of different approaches              |           |                                |
-+---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
-| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min | Small group break out exercise |
-|                           |                                                                |           |                                |
-|                           | Small groups discuss whether modelling would be useful and why |           |                                |
-+---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
-| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min    | Group discussion (plenary)     |
-|                           |                                                                |           |                                |
-|                           | Challenges participants have encountered in using evidence     |           |                                |
-+---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
-| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min | Presentation                   |
-|                           |                                                                |           |                                |
-|                           | Common misconceptions about modelling                          |           |                                |
-|                           |                                                                |           |                                |
-|                           | Where to next                                                  |           |                                |
-+---------------------------+----------------------------------------------------------------+-----------+--------------------------------+
-
-Part 1: Introduction to Scenario Analysis (30 min)
-
--   Purpose and value of scenarios
-
--   Examples from malaria programmes
-
-Part 2: Designing Scenarios (45 min)
-
--   Defining assumptions and comparisons
-
--   Ensuring realism and policy relevance
-
-Part 3: Practical Exercise (45–60 min)
-
--   Participants develop and compare scenarios for a programme challenge
-
--   Discuss expected outcomes and trade-offs
-
-Part 4: Group Discussion (30 min)
-
--   Interpreting results and uncertainty
-
--   Using scenarios to inform decisions
-
-Part 5: Reflection and Wrap-Up (15 min)
-
--   Key considerations for scenario design and use
++-----------------------------------+-----------------------------------------------------------------------+-------------+--------------------------------------------+
+| Topic                             | Description                                                           | Duration    | Format                                     |
++-----------------------------------+-----------------------------------------------------------------------+-------------+--------------------------------------------+
+| Introduction to Scenario Analysis | Purpose and value of scenarios                                        | 20 min      | Presentation                               |
+|                                   |                                                                       |             |                                            |
+|                                   | Scenarios, forecasts and projections                                  |             |                                            |
+|                                   |                                                                       |             |                                            |
+|                                   | Establishing counterfactuals                                          |             |                                            |
++-----------------------------------+-----------------------------------------------------------------------+-------------+--------------------------------------------+
+| Designing Scenarios               | Defining assumptions and comparisons                                  | 20 min      | Presentation and worked example discussion |
+|                                   |                                                                       |             |                                            |
+|                                   | Ensuring realism and policy relevance                                 |             |                                            |
+|                                   |                                                                       |             |                                            |
+|                                   | Costing scenarios                                                     |             |                                            |
+|                                   |                                                                       |             |                                            |
+|                                   | Worked examples                                                       |             |                                            |
++-----------------------------------+-----------------------------------------------------------------------+-------------+--------------------------------------------+
+| Interactive Exercise              | Participants develop and compare scenarios for SMC modelling question | 40 min      | Small group break out exercise             |
++-----------------------------------+-----------------------------------------------------------------------+-------------+--------------------------------------------+
+| Reflection and Wrap-Up            | Key considerations for scenario design and use                        | 10 min      | Discussion                                 |
+|                                   |                                                                       |             |                                            |
+|                                   | Using scenarios to inform decisions                                   |             |                                            |
++-----------------------------------+-----------------------------------------------------------------------+-------------+--------------------------------------------+
 
 ### Practical Exercise
 
-Exercise Title: Comparing Intervention Scenarios
+Exercise Title: Designing Scenarios for SMC
 
 **Instructions:\
-** Participants work in groups to:
+** Participants work in groups to consider the following modelling question: *What is the expected health impact and cost over 5 years (2026 - 2030) of introducing SMC through door-to-door delivery or health facilities?*
 
-1.  Define a baseline scenario
+Develop a set of scenarios to explore to support answering this question. Define your baseline and identify the outcome measures of interest.
 
-2.  Develop 2–3 alternative intervention or funding scenarios
+Consider: 
 
-3.  Identify assumptions and expected outcomes
+-   High prevalence vs moderate prevalence settings
 
-4.  Discuss how results would influence decision-making
+-   Coverage (conservative vs optimistic)
 
-Groups present and compare findings.
+-   Consider an appropriate counterfactual scenario
+
+    -   Climate assumptions 
+
+    -   With or without ITN use
+
+Groups present and compare scenarios and key assumptions informing their choices.
 
 ### Facilitator Guidance
 
@@ -123,10 +95,6 @@ Groups present and compare findings.
 
 ## Materials and Resources
 
--   Scenario planning templates
-
 -   Malaria programme case studies
 
 -   Facilitator slides
-
--   Group worksheets

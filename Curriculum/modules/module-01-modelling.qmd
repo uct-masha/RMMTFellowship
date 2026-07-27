@@ -99,14 +99,10 @@ Example Scenarios
 
 -   Reinforce that modelling is one input into decision-making, alongside operational and political considerations
 
-
-
 ## Materials and Resources
 
 -   Introductory slide deck
 
 -   Example modelling case studies
 
--   Handout: Types of Models and Their Uses
-
--   Group discussion worksheets
+-   SPPF Tool access

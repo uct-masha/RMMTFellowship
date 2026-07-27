@@ -36,42 +36,66 @@ By the end of this module, participants should be able to:
 
 This module consists of two sessions, a lecture and a practical. These can be run back-to-back or spread over separate days depending on the schedule being followed. The session is designed to be interactive, with opportunities for participants to engage in a practical exercise.
 
-+----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
-| Topic                                  | Description                                                            | Duration  | Format                      |
-+----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
-| Introduction to Data Visualisation     | Why visualisation matters for policy engagement                        | 20 min    | Presentation                |
-|                                        |                                                                        |           |                             |
-|                                        | Model outputs and sources of bias                                      |           |                             |
-+----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
-| Principles of Data Visualisation       | Accuracy and honesty                                                   | 40 min    | Presentation                |
-|                                        |                                                                        |           |                             |
-|                                        | Clarity and simplicity                                                 |           |                             |
-|                                        |                                                                        |           |                             |
-|                                        | Fairness and objectivity                                               |           |                             |
-|                                        |                                                                        |           |                             |
-|                                        | Privacy and trust                                                      |           |                             |
-|                                        |                                                                        |           |                             |
-|                                        | Inclusiveness and accessibility                                        |           |                             |
-+----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
-| Interactive Exercise & Discussion      | Examples of effective and ineffective visuals in malaria model outputs | 45 min    | Interactive plenary session |
-|                                        |                                                                        |           |                             |
-|                                        | Balancing simplicity and technical accuracy                            |           |                             |
-+----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
-| Practical: Plotting and Interpretation | Use of wireframes                                                      | 45-60 min | Practical session (plenary) |
-|                                        |                                                                        |           |                             |
-|                                        | Practical tools for plotting and wireframes                            |           |                             |
-+----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
-| Reflection and Wrap-Up                 | Key takeaways                                                          | 15 min    | Presentation                |
-|                                        |                                                                        |           |                             |
-|                                        | Where to next                                                          |           |                             |
-+----------------------------------------+------------------------------------------------------------------------+-----------+-----------------------------+
++----------------------------------------+------------------------------------------------------------------------+------------+---------------------------------------------+
+| Topic                                  | Description                                                            | Duration   | Format                                      |
++----------------------------------------+------------------------------------------------------------------------+------------+---------------------------------------------+
+| Introduction to Data Visualisation     | Why visualisation matters for policy engagement                        | 20 min     | Presentation                                |
+|                                        |                                                                        |            |                                             |
+|                                        | Model outputs and sources of bias                                      |            |                                             |
++----------------------------------------+------------------------------------------------------------------------+------------+---------------------------------------------+
+| Principles of Data Visualisation       | Accuracy and honesty                                                   | 40 min     | Presentation                                |
+|                                        |                                                                        |            |                                             |
+|                                        | Clarity and simplicity                                                 |            |                                             |
+|                                        |                                                                        |            |                                             |
+|                                        | Fairness and objectivity                                               |            |                                             |
+|                                        |                                                                        |            |                                             |
+|                                        | Privacy and trust                                                      |            |                                             |
+|                                        |                                                                        |            |                                             |
+|                                        | Inclusiveness and accessibility                                        |            |                                             |
++----------------------------------------+------------------------------------------------------------------------+------------+---------------------------------------------+
+| Interactive Exercise & Discussion      | Examples of effective and ineffective visuals in malaria model outputs | 45 min     | Interactive plenary session                 |
+|                                        |                                                                        |            |                                             |
+|                                        | Balancing simplicity and technical accuracy                            |            |                                             |
++----------------------------------------+------------------------------------------------------------------------+------------+---------------------------------------------+
+| Practical: Plotting and Interpretation | Use of wireframes                                                      | 45-60 min  | Practical session (small group and plenary) |
+|                                        |                                                                        |            |                                             |
+|                                        | Practical tools for plotting and wireframes                            |            |                                             |
++----------------------------------------+------------------------------------------------------------------------+------------+---------------------------------------------+
+| Reflection and Wrap-Up                 | Key takeaways                                                          | 15 min     | Presentation                                |
+|                                        |                                                                        |            |                                             |
+|                                        | Where to next                                                          |            |                                             |
++----------------------------------------+------------------------------------------------------------------------+------------+---------------------------------------------+
 
 ### Practical Exercise
 
 Exercise Title: Improving a Visualisation
 
 **Instructions:\
-**Participants:
+**Participants break into small groups where each group sketches 1-2 wireframes (on paper or using a digital tool) for a plot addressing a policy question of their choice.
+
+Consider:
+
+-   What data (or model output) is needed?
+
+-   What comparisons are useful?
+
+-   What is plotted?
+
+-   What is the message?
+
+-   What kind of plot is it?
+
+**Tool Demonstration:**
+
+-   Canva ([canva.com](http://canva.com/))
+
+-   Data Wrapper ([datawrapper.de](http://datawrapper.de/))
+
+-   Live Chart ([Charts.livegap.com](http://charts.livegap.com/))
+
+**Additional exercise (time dependent)**
+
+Participants:
 
 1.  Review a poorly designed chart or dashboard
 

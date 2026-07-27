@@ -16,7 +16,6 @@ By the end of this module, participants should be able to:
 -   Explain how assumptions and uncertainty influence outputs
 
 -   Demonstrate how outputs can be translated into actionable insights for decision-making
-
 :::
 
 ::: {.callout-note appearance="default"}
@@ -33,90 +32,97 @@ By the end of this module, participants should be able to:
 -   Translating findings into recommendations
 :::
 
+## Delivery Plan
 
+This module runs in parallel with the remaining modules. It is designed to be revisited across several sessions throughout the second half of the Fellowship programme. This provides fellows with the opportunity to apply their learnings from subsequent modules and practice critically interpreting model outputs. As such, this module is not contained in a single session, rather it is best delivered over several sessions across the second and third intensive week, and the virtual sessions in between.
 
-## Delivery Plan 
++-------------------------------+--------------------------------------------------+-----------------+----------------------+
+| Topic                         | Description                                      | Duration        | Format               |
++-------------------------------+--------------------------------------------------+-----------------+----------------------+
+| Introduction to Model Outputs | Common output types and formats                  | 20 min          | Presentation         |
+|                               |                                                  |                 |                      |
+|                               | Understanding what outputs represent             |                 |                      |
++-------------------------------+--------------------------------------------------+-----------------+----------------------+
+| Interpreting Results          | Trends, comparisons, and uncertainty             | 30 min          | Presentation         |
+|                               |                                                  |                 |                      |
+|                               | Common interpretation challenges                 |                 |                      |
++-------------------------------+--------------------------------------------------+-----------------+----------------------+
+| Case studies\*                | Introduction to the case study                   | 90-120 min each | Interactive exercise |
+|                               |                                                  |                 |                      |
+|                               | Small group break out exercises                  |                 |                      |
+|                               |                                                  |                 |                      |
+|                               | Group discussion                                 |                 |                      |
++-------------------------------+--------------------------------------------------+-----------------+----------------------+
+| Reflection and Wrap-Up        | Key lessons for evidence-informed interpretation | 15–30 min       | Presentation         |
+|                               |                                                  |                 |                      |
+|                               | Anatomy of a good key message                    |                 |                      |
++-------------------------------+--------------------------------------------------+-----------------+----------------------+
 
-This module consists of...
+*\*Multiple sessions with a different case study and emphasis are included throughout the remainder of the programme. For the inaugural cohort, we held 1 case study session in the second immersive week, 1 as a virtual session, and 2 in the final immersive week. The duration and number of sessions held should depend on the available time in future schedules; level of fellows engagement with, and understanding of, the material; and feedback from participants during the midline survey.*
 
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Topic                     | Description                                                    | Duration   | Format                         |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Why modelling matters in malaria programmes                    |            |                                |
-|                           |                                                                |            |                                |
-|                           | Examples of modelling informing policy decisions               |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Comparing model types and applications                         |            |                                |
-|                           |                                                                |            |                                |
-|                           | Strengths and limitations of different approaches              |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
-|                           |                                                                |            |                                |
-|                           | Small groups discuss whether modelling would be useful and why |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
-|                           |                                                                |            |                                |
-|                           | Challenges participants have encountered in using evidence     |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Common misconceptions about modelling                          |            |                                |
-|                           |                                                                |            |                                |
-|                           | Where to next                                                  |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-
-Part 1: Introduction to Model Outputs (30 min)
-
--   Common output types and formats
-
--   Understanding what outputs represent
-
-Part 2: Interpreting Results (45 min)
-
--   Trends, comparisons, and uncertainty
-
--   Common interpretation challenges
-
-Part 3: Practical Exercise (45–60 min)
-
--   Participants review example outputs and interpret findings
-
--   Identify implications for policy or programmes
-
-Part 4: Group Discussion (30 min)
-
--   Translating outputs into recommendations
-
--   Avoiding over-interpretation or misuse
-
-Part 5: Reflection and Wrap-Up (15 min)
-
--   Key lessons for evidence-informed interpretation
-
-
-
-### Practical Exercise
+### Practical Exercise/Case Studies
 
 Exercise Title: Interpreting Outputs for Decision-Making
 
-**Instructions:\
-** Participants:
+*Note: This provides a broad overview and example discussion prompts that can be used for different case studies. Materials, examples, and specific discussion questions for different case studies are included in the materials repository.*
 
-1.  Review example modelling outputs
+**Case study session outline:**
 
-2.  Identify key findings and trends
+Aim: Interpret and critically engage with model outputs and visualisations
 
-3.  Discuss assumptions and uncertainty
+Structure:
 
-4.  Develop 2–3 policy or programme implications
+-   Introduction to the case study (10-20 min): provide the context, high level approach methods, key assumptions, overview of scenarios,
+
+-   Breakout groups (20-40 min): provide the case materials and, if appropriate, discussion prompts for each small group.
+
+-   Feedback & discussion (40-60 min)
+
+-   Key messages & reflections (15-30 min): extract plots and key messages to project for the wrap-up with highlighted discussion points and reflections on each
 
 Groups present their interpretations and recommendations.
 
-###  Facilitator Guidance
+**Example Discussion Prompts:**
+
+Interpreting key messages and plots (this reinforces learnings from *Module 9. Data Visualisation and Interpretation*, but situates it in the broader context of the model results).
+
+-   What model output(s) is this plot showing (be specific)?
+
+-   What are the key messages? 
+
+    -   What is the main message?
+
+    -   What else is the plot telling you? (there are usually multiple takeaways from a single plot)
+
+    -   What is missing? What questions do you still have?
+
+    -   How do the key messages in the plot align with that in the text?
+
+-   How intuitive/easy is the plot to read?
+
+    -   Axes? Labels?
+
+    -   Figure description - could you understand the plot without the description? Was the description adequate?
+
+    -   “Good” vs “Bad” - is this easy to read?
+
+    -   How simple/confusing is the plot? Right amount of detail or too busy?
+
+-   Is uncertainty captured? 
+
+-   What did you like/not like? What changes would you suggest?
+
+Implications and usefulness for decision-making:
+
+-   How useful would these studies (and the outputs they present) be for you as a decision-maker?
+
+-   Which of the ways of communicating model outputs (tables, different types of plots) might you want to see for your own modelling exercise?
+
+-   What would be 2-3 policy or programme implications from this study?
+
+-   What are the implications of assumptions and uncertainty for decision-making in this case study?
+
+### Facilitator Guidance
 
 -   Reinforce that outputs should always be interpreted within context
 
@@ -126,14 +132,12 @@ Groups present their interpretations and recommendations.
 
 -   Use examples relevant to participant settings and roles
 
+-   Draw on key learnings from other modules
 
 ## Materials and Resources
 
--   Example model outputs and graphs
+-   Case studies with example model outputs and graphs
 
 -   Interpretation guide/checklist
 
 -   Facilitator slides
-
--   Group discussion templates
-

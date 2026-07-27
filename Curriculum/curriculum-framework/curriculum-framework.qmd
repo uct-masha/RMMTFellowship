@@ -45,7 +45,7 @@ The Fellowship treats participants as active contributors to the learning proces
 Learning activities are designed to help fellows move between concepts, application, and reflection. Modules combine short technical inputs with facilitated discussion, practical exercises, country team work, and opportunities to connect learning to capstone projects. This structure allows fellows to test ideas, question assumptions, and consider how modelling can support decision-making in their own contexts.
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | Learning Feature | How It Supports Fellows |
 | Applied examples | Connect modelling concepts to malaria programme decisions |
 | Facilitated discussion | Encourage exchange across technical, policy, and programme perspectives |
@@ -67,7 +67,7 @@ The learning approach also recognises that uncertainty is central to both modell
 The Fellowship uses an iterative learning model. Ideas introduced in early modules are revisited and strengthened through later sessions, practical exercises, and capstone project work. Fellows gradually build from understanding modelling concepts to formulating policy-relevant questions, interpreting outputs, communicating findings, and considering how modelling evidence can be embedded in programme decision-making.
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | Learning Stage | Focus |
 | Explore | Introduce concepts, questions, and programme challenges |
 | Apply | Use exercises and case studies to practise key skills |

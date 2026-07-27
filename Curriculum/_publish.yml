@@ -1,0 +1,4 @@
+- source: project
+  posit-connect-cloud:
+    - id: 019fa027-c5de-259e-b7be-eae7bf5882c3
+      url: https://connect.posit.cloud/rachelhounsell/content/019fa027-c5de-259e-b7be-eae7bf5882c3

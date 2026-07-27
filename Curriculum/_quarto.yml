@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "RMMT Fellowship Curriculum Pack"
+  title: "RMMT Fellowship Curriculum Repository"
   subtitle: "Regional Malaria Modelling Translational Fellowship"
   author: "Silal, SP., Hounsell, RA., Wanjala, S."
   date: today
@@ -69,7 +69,7 @@ format:
     callout-appearance: simple
     grid:
       sidebar-width: 330px
-  pdf:
-    documentclass: scrreprt
+#  pdf:
+ #   documentclass: scrreprt
 
 editor: source

@@ -36,23 +36,23 @@ By the end of this module, participants should be able to:
 
 This module consists of a single 2-hour session, with a mix of group exercise, discussion, and presentations.
 
-+----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
-| Topic                            | Description                                                                                                          | Duration   | Format                                      |
-+----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
-| Group Exercise and Discussion    | Who are potential audiences for preliminary and final results?                                                       | 30 min     | Small group discussion with feedback        |
-|                                  |                                                                                                                      |            |                                             |
-|                                  | What formats are most appropriate for each audience?                                                                 |            |                                             |
-+----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
-| Good Practices for Communication | Good practices and principles for communicating model findings                                                       | 30 min     | Presentation                                |
-+----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
-| Group Discussion: Experiences    | What has been your experience (good or bad) with technical research being communicated in a decision-making setting? | 20 min     | Group discussion (plenary)                  |
-+----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
-| Communications and Engagement    | Preferred approaches and best practices for engaging with modellers                                                  | 30 min     | Presentation and group discussion (plenary) |
-+----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
-| Reflection and Wrap-Up           | Key takeaways                                                                                                        | 10 min     | Presentation                                |
-|                                  |                                                                                                                      |            |                                             |
-|                                  | Application for Capstone Projects                                                                                    |            |                                             |
-+----------------------------------+----------------------------------------------------------------------------------------------------------------------+------------+---------------------------------------------+
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+----------+---------------------------------------------+
+| Topic                            | Description                                                                                                          | Duration | Format                                      |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+----------+---------------------------------------------+
+| Group Exercise and Discussion    | Who are potential audiences for preliminary and final results?                                                       | 30 min   | Small group discussion with feedback        |
+|                                  |                                                                                                                      |          |                                             |
+|                                  | What formats are most appropriate for each audience?                                                                 |          |                                             |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+----------+---------------------------------------------+
+| Good Practices for Communication | Good practices and principles for communicating model findings                                                       | 30 min   | Presentation                                |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+----------+---------------------------------------------+
+| Group Discussion: Experiences    | What has been your experience (good or bad) with technical research being communicated in a decision-making setting? | 20 min   | Group discussion (plenary)                  |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+----------+---------------------------------------------+
+| Communications and Engagement    | Preferred approaches and best practices for engaging with modellers                                                  | 30 min   | Presentation and group discussion (plenary) |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+----------+---------------------------------------------+
+| Reflection and Wrap-Up           | Key takeaways                                                                                                        | 10 min   | Presentation                                |
+|                                  |                                                                                                                      |          |                                             |
+|                                  | Application for Capstone Projects                                                                                    |          |                                             |
++----------------------------------+----------------------------------------------------------------------------------------------------------------------+----------+---------------------------------------------+
 
 ### Practical Exercise
 

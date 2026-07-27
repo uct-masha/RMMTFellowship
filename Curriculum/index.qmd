@@ -3,11 +3,13 @@ title: "Welcome"
 numbered: false
 ---
 
-**Welcome to the RMMT Fellowship Curriculum Pack.**
+**Welcome to the RMMT Fellowship Curriculum Repository.**
 
 Use the sidebar to move through the RMMT Fellowship information, curriculum overview, module guides, supporting tools, MEL, scale-up, and facilitator guidance.
 
 Teaching materials and exercise templates will be available in the accompanying RMMT Fellowship GitHub repository.
+
+**Suggested citation**: Silal, SP., Hounsell, RA., Wanjala, S. (2026). Regional Malaria Modelling Translational (RMMT) Fellowship Curriculum Repository. \[Online\] Available at: <https://uct-masha.github.io/RMMTFellowship/>
 
 ![](images/logo-block.png){fig-align="center"}
 

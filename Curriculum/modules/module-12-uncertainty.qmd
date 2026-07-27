@@ -16,7 +16,6 @@ By the end of this module, participants should be able to:
 -   Understand how sensitivity analysis is used to assess the robustness of results
 
 -   Demonstrate how uncertainty can be communicated effectively to non-technical audiences
-
 :::
 
 ::: {.callout-note appearance="default"}
@@ -33,85 +32,62 @@ By the end of this module, participants should be able to:
 -   Communicating confidence and uncertainty
 :::
 
-
 ## Delivery Plan
 
-This module consists of...
+This module consists of a teaching session (1.5 hour), including case studies, followed by an interactive exercise and discussion.
 
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Topic                     | Description                                                    | Duration   | Format                         |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Introduction to modelling | What is modelling?                                             | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Why modelling matters in malaria programmes                    |            |                                |
-|                           |                                                                |            |                                |
-|                           | Examples of modelling informing policy decisions               |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Different types of models | Overview of modelling approaches                               | 30 min     | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Comparing model types and applications                         |            |                                |
-|                           |                                                                |            |                                |
-|                           | Strengths and limitations of different approaches              |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Interactive Exercise      | Participants review real-world malaria programme questions     | 45–60 min  | Small group break out exercise |
-|                           |                                                                |            |                                |
-|                           | Small groups discuss whether modelling would be useful and why |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Group Discussion          | What makes modelling useful—or not useful—for decision-making? | 30 min     | Group discussion (plenary)     |
-|                           |                                                                |            |                                |
-|                           | Challenges participants have encountered in using evidence     |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-| Reflection and Wrap-Up    | Key takeaways                                                  | 15–30 min  | Presentation                   |
-|                           |                                                                |            |                                |
-|                           | Common misconceptions about modelling                          |            |                                |
-|                           |                                                                |            |                                |
-|                           | Where to next                                                  |            |                                |
-+---------------------------+----------------------------------------------------------------+------------+--------------------------------+
-
-Part 1: Introduction to Uncertainty (30 min)
-
--   Why uncertainty exists in all models
-
--   Different sources and types of uncertainty
-
-Part 2: Sensitivity Analysis (45 min)
-
--   Understanding how assumptions affect outputs
-
--   Examples of sensitivity testing in malaria models
-
-Part 3: Practical Exercise (45–60 min)
-
--   Participants review outputs under different assumptions
-
--   Explore how changing parameters influences conclusions
-
-Part 4: Communicating Uncertainty (30 min)
-
--   Avoiding overconfidence in communication
-
--   Presenting uncertainty clearly and constructively
-
-Part 5: Reflection and Wrap-Up (15 min)
-
--   Key lessons for interpreting and communicating uncertainty
++-----------------------------+------------------------------------------------------------------------------------------------+------------+--------------------------------+
+| Topic                       | Description                                                                                    | Duration   | Format                         |
++-----------------------------+------------------------------------------------------------------------------------------------+------------+--------------------------------+
+| Introduction to Uncertainty | Why uncertainty exists in all models                                                           | 45 min     | Presentation                   |
+|                             |                                                                                                |            |                                |
+|                             | Different sources and types of uncertainty                                                     |            |                                |
++-----------------------------+------------------------------------------------------------------------------------------------+------------+--------------------------------+
+| Sensitivity Analysis        | Understanding how assumptions affect outputs                                                   | 45 min     | Presentation and discussion    |
+|                             |                                                                                                |            |                                |
+|                             | Examples of sensitivity and uncertainty in malaria models                                      |            |                                |
++-----------------------------+------------------------------------------------------------------------------------------------+------------+--------------------------------+
+| Interactive Exercise        | Participants review outputs under different assumptions and conduct basic sensitivity analysis | 90-120 min | Small group break out exercise |
+|                             |                                                                                                |            |                                |
+|                             | Explore how changing parameters influences conclusions                                         |            |                                |
++-----------------------------+------------------------------------------------------------------------------------------------+------------+--------------------------------+
+| Communicating Uncertainty   | Avoiding overconfidence in communication                                                       | 30 min     | Group discussion (plenary)     |
+|                             |                                                                                                |            |                                |
+|                             | Presenting uncertainty clearly and constructively                                              |            |                                |
++-----------------------------+------------------------------------------------------------------------------------------------+------------+--------------------------------+
+| Reflection and Wrap-Up      | Key lessons for interpreting and communicating uncertainty                                     | 10 min     | Discussion                     |
+|                             |                                                                                                |            |                                |
+|                             | Where to next                                                                                  |            |                                |
++-----------------------------+------------------------------------------------------------------------------------------------+------------+--------------------------------+
 
 ### Practical Exercise
 
-Exercise Title: Exploring Uncertainty in Model Results
+Exercise Title: SPPF - Exploring Uncertainty and Sensivity Analysis in Malaria Modelling
 
-**Instructions:\
-** Participants:
+SPPF is an interactive malaria modelling tool for a single patch (one geographic/age group) for *P. falciparum* malaria.
 
-1.  Review model outputs under varying assumptions
+**Instructions (Part A)\
+**Using the interactive SPPF modelling tool, participants:
 
-2.  Identify which assumptions most influence outcomes
+-   Run a baseline and scenarios of your choice
 
-3.  Discuss implications for policy recommendations
+-   Explore the results
 
-4.  Develop key messages for communicating uncertainty
+-   Run the sensitivity analysis
 
-Groups compare findings and communication approaches.
+-   Identify which assumptions most influence outcomes
+
+-   Discuss implications for policy recommendations
+
+Groups compare approaches and interpretation.
+
+**Optional Extension (Part B)**
+
+If there is time, an extension of the group exercise is to consider the following hypothetical situations:
+
+**Groups A & B:** Recent global instability in health financing has led to cautious donor spending. While the SMC funding is secured now, there remains uncertainty in the costs of delivery (enrolling participants into the SMC programme) and the drug cost. Explore the impact of cost uncertainty on the implementation of your SMC intervention. 
+
+**Groups C & D:** Artemisinin resistance is a current threat. The current baseline settings assume that 5% of treatments are failing due to artemisinin resistance. Resistance will have an effect on the impact of your SMC intervention. Redefine the baseline and consider different background resistance scenarios to estimate the impact that increased resistance after 2020 has on your intervention.
 
 ### Facilitator Guidance
 
@@ -123,16 +99,8 @@ Groups compare findings and communication approaches.
 
 -   Focus on implications for decision-making and communication
 
-
-
 ## Materials and Resources
 
--   Example sensitivity analyses
-
--   Uncertainty communication guide
-
--   Scenario comparison worksheets
+-   SPPF Tool access
 
 -   Facilitator presentation slides
-
-
